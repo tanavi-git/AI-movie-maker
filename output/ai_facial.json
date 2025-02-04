@@ -1,0 +1,73 @@
+{
+  "title": "Surveillance Retail: The Rise of Facial Recognition in Stores",
+  "description": "In this episode, we dive into how facial recognition is being used to monitor retail interactions, the controversies surrounding this technology, and the potential implications for privacy and consumer rights.",
+  "reference": "https://gizmodo.com/facial-recognition-that-tracks-suspicious-friendliness-is-coming-to-a-store-near-you-2000519190",
+  "script": [
+    {
+      "speaker": "Host",
+      "text": "Hello and welcome to another episode of 'life is artificial', where we explore the cutting edge of technology, innovation, and what the future could look like.",
+      "key": "ai_facial0",
+      "duration": 9.96
+    },
+    {
+      "speaker": "Host",
+      "text": "Today, we're talking about something that sounds like it's straight out of a dystopian sci-fi movie: facial recognition systems designed to detect 'suspicious friendliness' in retail stores. This story was originally reported by Gizmodo in an article titled 'Facial Recognition That Tracks Suspicious Friendliness Is Coming to a Store Near You.' If you want to check out the full article, the link is in the show notes.",
+      "key": "ai_facial1",
+      "duration": 26.376
+    },
+    {
+      "speaker": "Host",
+      "text": "Now, imagine walking into your favorite local store. You pick up a few groceries, and you go to a cashier you've chatted with before. Nothing seems out of the ordinary, right? But with the latest technology from Israel-based Corsight AI, your interaction might be flagged as 'anomalous.' Why? Because facial recognition cameras are watching, tracking every move, and trying to determine whether you have a personal relationship with that cashier. If you consistently go to the same person, an alert might be triggered.",
+      "key": "ai_facial2",
+      "duration": 32.112
+    },
+    {
+      "speaker": "Host",
+      "text": "This system is being marketed as a solution to what the retail industry calls 'sweethearting.' That's when employees give discounts or freebies to people they know—family members, friends, or maybe even a sweetheart. According to Corsight's CEO, Shai Toren, their system can analyze how close customers stand to employees and track whether customers keep returning to the same cashier. Any anomaly detected in behavior triggers a notification for store security.",
+      "key": "ai_facial3",
+      "duration": 29.064
+    },
+    {
+      "speaker": "Host",
+      "text": "The retail industry has increasingly embraced algorithmic surveillance, with claims that it's necessary to combat rising retail crime. But here's the twist: the data used to justify this technology is, at best, questionable. The National Retail Federation, which often releases statistics about retail theft, recently had to retract claims after it was found that they misinterpreted their own data. Still, Corsight's new system is being adopted by some retailers, although they aren't revealing who.",
+      "key": "ai_facial4",
+      "duration": 31.032
+    },
+    {
+      "speaker": "Host",
+      "text": "Critics, including advocates for retail workers, are deeply concerned about this kind of surveillance. Chelsea Connor, from the Retail, Wholesale, and Department Store Union, pointed out that this system makes unfair assumptions about customer loyalty. Many retail workers are encouraged to build strong relationships with customers—especially those working on commission. If you're good at building trust and connection, this technology might end up punishing you for it.",
+      "key": "ai_facial5",
+      "duration": 29.4
+    },
+    {
+      "speaker": "Host",
+      "text": "And it’s not just about sweethearting. The concerns go much deeper. The use of facial recognition in stores brings up serious privacy issues. In fact, the Federal Trade Commission recently banned Rite Aid from using facial recognition because it was found to be biased—falsely flagging certain groups, particularly women and people of color, as shoplifters. The potential for bias, discrimination, and wrongful targeting with these systems is a huge concern.",
+      "key": "ai_facial6",
+      "duration": 28.656
+    },
+    {
+      "speaker": "Host",
+      "text": "Beyond preventing theft, there’s also the issue of ‘mission creep.’ Caitlin Seeley George from Fight for the Future warns that companies could use these systems not just to catch thieves, but also to collect more data for marketing and profiling purposes. In other words, while the stated goal is security, the technology could easily be used to monitor and analyze consumer behavior for profit—something that many customers might not even be aware of.",
+      "key": "ai_facial7",
+      "duration": 28.512
+    },
+    {
+      "speaker": "Host",
+      "text": "So, where does this leave us? On one hand, stores are trying to protect their bottom line from internal theft. On the other hand, there’s a very real risk of infringing on the privacy rights of both employees and customers. Do we really want to be surveilled at this level when we walk into a store? Is the potential reduction in theft worth the price we pay in terms of our personal privacy?",
+      "key": "ai_facial8",
+      "duration": 24.384
+    },
+    {
+      "speaker": "Host",
+      "text": "It seems like we’re at a crossroads. The spread of facial recognition and surveillance tech in workplaces is prompting regulators to take a closer look. Maybe it's time we as consumers start paying closer attention too. If you walk into a store and see cameras watching you, do you know what they’re watching for? And are you okay with it?",
+      "key": "ai_facial9",
+      "duration": 21.288
+    },
+    {
+      "speaker": "Host",
+      "text": "Thanks for joining me on this episode of 'life is artificial.' If this topic caught your interest, make sure to check out the full Gizmodo article linked in the show notes. And as always, if you liked today’s episode, subscribe and leave a review—it really helps us keep going. Until next time, keep questioning the future.",
+      "key": "ai_facial10",
+      "duration": 20.16
+    }
+  ]
+}

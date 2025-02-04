@@ -1,0 +1,79 @@
+{
+  "title": "The Nobel Prize That Overlooked an AI Pioneer",
+  "description": "In this episode, we delve into the fascinating story of Shunichi Amari, an AI researcher who was overlooked for the 2024 Nobel Prize in Physics despite his groundbreaking contributions to the field decades ago. We explore the legacy of his work, the significance of this year's Nobel Prize, and how perseverance has shaped the modern AI landscape.",
+  "reference": "https://business.nikkei.com/atcl/seminar/19/00030/102100594/?n_cid=nbponb_twbn",
+  "script": [
+    {
+      "speaker": "Host",
+      "text": "Hello and welcome to another episode of 'Life is Artificial', where we explore the cutting edge of technology, innovation, and what the future could look like.",
+      "key": "ai_amari0",
+      "duration": 9.936
+    },
+    {
+      "speaker": "Host",
+      "text": "Today, we are talking about an interesting story that has emerged from the world of artificial intelligence—a story of recognition, perseverance, and the impact of timing in science. This story is centered around Shunichi Amari, a researcher who has made significant contributions to the development of AI, but who was overlooked in the awarding of the 2024 Nobel Prize in Physics.",
+      "key": "ai_amari1",
+      "duration": 24.744
+    },
+    {
+      "speaker": "Host",
+      "text": "The Nobel Prize in Physics for 2024 was awarded to two prominent figures in AI research: Geoffrey Hinton of the University of Toronto and John Hopfield of Princeton University. Both of these researchers have been instrumental in developing neural networks and deep learning. But behind the celebrations, there are many who feel that the prize committee missed a crucial contributor—Professor Shunichi Amari, an emeritus professor at the University of Tokyo.",
+      "key": "ai_amari2",
+      "duration": 29.616
+    },
+    {
+      "speaker": "Host",
+      "text": "Amari's story dates back to the 1960s and 70s, long before AI became the booming field that it is today. During that era, often referred to as the 'AI winter,' Amari published foundational research that laid the groundwork for much of what we see in deep learning today. His work focused on connecting probability theory and geometry—a field that would come to be known as information geometry. His contributions were ahead of their time, but they remained largely unnoticed as the field went into a period of stagnation.",
+      "key": "ai_amari3",
+      "duration": 33.888
+    },
+    {
+      "speaker": "Host",
+      "text": "Fast forward to the 1980s, when Geoffrey Hinton and others rediscovered some of these concepts, reigniting interest in neural networks. In fact, Amari had written about concepts similar to the backpropagation method, which Hinton and his colleagues later popularized. Yet, Amari remains humble about the situation. In an interview with Nikkei Business, he expressed genuine happiness for Hinton and Hopfield's achievement, praising their perseverance and dedication to pushing the boundaries of AI research.",
+      "key": "ai_amari4",
+      "duration": 32.4
+    },
+    {
+      "speaker": "Host",
+      "text": "Amari recounted an anecdote where, during a lecture at the University of Tokyo, he was surprised by the news that Hinton and Hopfield had won the Nobel Prize. He was asked on the spot for his thoughts, and he admitted that he never imagined AI would win a Nobel Prize in Physics—it was, to him, a delightful surprise. This recognition of AI within the domain of physics signifies a major shift, acknowledging that AI is no longer just an isolated area of computer science, but rather a profound tool that intersects multiple fields, including physics.",
+      "key": "ai_amari5",
+      "duration": 34.464
+    },
+    {
+      "speaker": "Host",
+      "text": "One of the most touching aspects of this story is how Amari spoke about Hinton's perseverance. Despite setbacks during the 'second neural boom' of the 1980s, when the early interest in neural networks started to wane, Hinton never gave up. He worked tirelessly, pushing forward the idea of deep learning, even when many in the academic community were skeptical. Amari applauds Hinton's unwavering belief in the potential of deep neural networks, a belief that eventually led to their tremendous success in the 2010s, especially with breakthroughs in image recognition.",
+      "key": "ai_amari6",
+      "duration": 36.912
+    },
+    {
+      "speaker": "Host",
+      "text": "It’s worth noting that Amari also had personal interactions with Hinton over the years. He shared a story of how, when Hinton received the prestigious C&C Prize in 2016, he requested that Amari be present as the guest of honor. This mutual respect between pioneers of the field highlights the collaborative spirit that has been essential to AI's progress. Even though Amari didn’t get the Nobel, his influence on Hinton and many others is undeniable.",
+      "key": "ai_amari7",
+      "duration": 28.632
+    },
+    {
+      "speaker": "Host",
+      "text": "In the interview, Amari also spoke about John Hopfield, whose contributions to associative memory models inspired many physicists to join the world of AI. Interestingly, the large language models we see today, like ChatGPT, owe some of their mechanisms to ideas that trace back to Hopfield's associative memory concepts. Amari acknowledged the importance of Hopfield’s work, and also made a light-hearted comment about how, perhaps because this was a physics award, a physicist had to be included.",
+      "key": "ai_amari8",
+      "duration": 30.936
+    },
+    {
+      "speaker": "Host",
+      "text": "The recognition of AI researchers for the Nobel Prize in Physics this year is a landmark moment. It symbolizes the convergence of disciplines and the incredible impact that AI is having across all sciences. However, it also raises questions about how pioneers like Amari, who were perhaps too far ahead of their time, might sometimes be overlooked. Despite this, Amari remains gracious, attributing much of the success in AI to perseverance and good timing. He’s even received messages from other researchers, like Jurgen Schmidhuber, expressing outrage on his behalf, yet Amari takes it all in stride, believing that what matters most is the advancement of science itself.",
+      "key": "ai_amari9",
+      "duration": 42.096
+    },
+    {
+      "speaker": "Host",
+      "text": "In conclusion, Amari’s story reminds us that in the world of science, recognition doesn’t always align perfectly with contributions. The importance of timing, persistence, and a little bit of luck cannot be overstated. As we continue to witness AI revolutionize our world, we should remember and honor all those whose early, uncelebrated efforts made today’s advances possible. This year's Nobel Prize might not have Amari’s name on it, but his legacy lives on through the work of those he inspired and the breakthroughs that continue to shape the future of AI.",
+      "key": "ai_amari10",
+      "duration": 35.04
+    },
+    {
+      "speaker": "Host",
+      "text": "Thank you for tuning in to this episode of 'Life is Artificial'. If you enjoyed today's story, be sure to subscribe and share it with others who are interested in the fascinating world of technology and innovation. Until next time, keep exploring, and remember—the future is closer than you think.",
+      "key": "ai_amari11",
+      "duration": 18.552
+    }
+  ]
+}

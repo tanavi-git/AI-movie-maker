@@ -1,0 +1,79 @@
+{
+  "title": "AI and the Nuclear Renaissance: Powering the Future of Data Centers",
+  "description": "In this episode, we delve into how nuclear energy is powering the future of data centers and AI, with investments from tech giants like Microsoft, Amazon, and Google. Explore the new wave of nuclear innovation and its impact on the tech landscape.",
+  "reference": "https://finance.yahoo.com/video/sam-altman-backed-oklo-reacts-155120698.html",
+  "script": [
+    {
+      "speaker": "Host",
+      "text": "Hello and welcome to another episode of 'life is artificial', where we explore the cutting edge of technology, innovation, and what the future could look like.",
+      "key": "ai_nuke0",
+      "duration": 9.936
+    },
+    {
+      "speaker": "Host",
+      "text": "Today, we are diving into a topic that might surprise you. It's about artificial intelligence, of course, but also about nuclear power—yes, nuclear energy—and how the two are becoming an unlikely but powerful partnership for the future of data centers. So, buckle up, because this is going to be an exciting exploration into energy, AI, and the future of technology.",
+      "key": "ai_nuke1",
+      "duration": 22.68
+    },
+    {
+      "speaker": "Host",
+      "text": "If you’ve been following the AI scene lately, you know it’s been a wild ride. We've seen breakthroughs in machine learning, large language models, generative AI—all kinds of advancements that are reshaping industries. But one challenge has stood out as AI keeps growing: energy consumption. You see, running these data centers, where all the AI magic happens, takes an enormous amount of power.",
+      "key": "ai_nuke2",
+      "duration": 24.432
+    },
+    {
+      "speaker": "Host",
+      "text": "Now, the big news is that some of the world’s largest tech companies—Amazon, Microsoft, Google—have all made significant moves toward investing in nuclear power to meet these growing energy demands. In particular, they’re interested in small modular reactors, or SMRs. And these aren’t just some distant sci-fi technology. They are actually seeing major investments as tech companies scramble to secure reliable, sustainable energy sources.",
+      "key": "ai_nuke3",
+      "duration": 27.432
+    },
+    {
+      "speaker": "Host",
+      "text": "In late September, Microsoft signed a two-decade deal with Constellation Energy to provide nuclear power for its data centers. This was a massive step, signaling that nuclear might be the answer to powering data centers as their energy needs grow. The idea of using nuclear power to fuel technology isn’t entirely new, but the scale and commitment we’re seeing now is what’s different. Amazon and Google weren’t far behind either—they recently made their own moves toward nuclear investments.",
+      "key": "ai_nuke4",
+      "duration": 31.008
+    },
+    {
+      "speaker": "Host",
+      "text": "So why nuclear? Well, it's about reliability and the sheer amount of energy AI systems are projected to need. According to McKinsey & Co., energy demand from data centers in the U.S. could grow from around 4% of total energy demand today to between 11% and 12% by 2030. Nuclear energy, despite being controversial, offers a stable, long-term solution that renewable sources like solar and wind can't always provide consistently, especially when the goal is to power systems 24/7.",
+      "key": "ai_nuke5",
+      "duration": 32.016
+    },
+    {
+      "speaker": "Host",
+      "text": "And it’s not just about the present needs. Morgan Stanley recently called this trend a ‘nuclear renaissance’—and we’re talking about potential investments of up to $1.5 trillion by 2050. This wave of investment is driven by hyperscalers—the biggest tech companies that operate the largest cloud and AI systems, like Microsoft, Amazon, Google, and Meta. These hyperscalers are betting big on nuclear as a way to keep their data centers running smoothly, especially as AI demands grow.",
+      "key": "ai_nuke6",
+      "duration": 31.416
+    },
+    {
+      "speaker": "Host",
+      "text": "But here’s what’s really fascinating: These tech giants aren't just looking at conventional nuclear reactors; they’re interested in developing the next generation—small modular reactors. SMRs are seen as more flexible, safer, and potentially cheaper alternatives compared to traditional nuclear plants. They could be deployed more quickly and could offer just the kind of steady, reliable power these companies need to run their AI operations.",
+      "key": "ai_nuke7",
+      "duration": 27.84
+    },
+    {
+      "speaker": "Host",
+      "text": "So, what does this mean for the future? Well, it means that the world’s growing hunger for AI might just be one of the forces that brings nuclear energy back into mainstream focus. We’re talking about a feedback loop: AI needs power, nuclear provides that power, and together, they drive innovation forward. Of course, there are still challenges—regulatory, environmental, and technical—that have to be addressed before SMRs become common. But the investments we’re seeing are a sign that the tech industry is ready to tackle those challenges head-on.",
+      "key": "ai_nuke8",
+      "duration": 34.176
+    },
+    {
+      "speaker": "Host",
+      "text": "It's exciting, and it’s also a little bit daunting. Nuclear power is powerful, but it’s also controversial for many reasons. Safety, waste management, and public perception are still hurdles. Yet, if done right, nuclear could offer a clean, efficient energy source that helps support AI, data centers, and maybe even power your next favorite tech product.",
+      "key": "ai_nuke9",
+      "duration": 21.84
+    },
+    {
+      "speaker": "Host",
+      "text": "So, that’s where we stand today—at the intersection of artificial intelligence and a new era of nuclear energy. The partnership between AI and nuclear power could be a game-changer, and we’re just beginning to see the potential. I, for one, am going to be keeping a close eye on how this all unfolds. Who knows, maybe in the near future, every major tech campus will be flanked by a nuclear reactor!",
+      "key": "ai_nuke10",
+      "duration": 24.792
+    },
+    {
+      "speaker": "Host",
+      "text": "Thank you for joining me on this journey into the future of AI and nuclear power. If you enjoyed today’s episode, don’t forget to subscribe and leave a review. Stay curious, stay informed, and until next time, remember—life is artificial, but the power behind it is becoming very, very real.",
+      "key": "ai_nuke11",
+      "duration": 18.024
+    }
+  ]
+}

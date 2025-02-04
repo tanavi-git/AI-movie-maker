@@ -1,0 +1,85 @@
+{
+  "title": "The Race to Master AI Coding: Turing's Role in OpenAI and Google's Rivalry",
+  "description": "In this episode, we dive into the ongoing battle among AI giants to achieve coding supremacy, highlighting Turing's role in training models for OpenAI, Google, Anthropic, and others.",
+  "reference": "https://www.theinformation.com/articles/the-startup-fueling-openai-and-anthropics-coding-race?rc=rvvbkr",
+  "script": [
+    {
+      "speaker": "Host",
+      "text": "Hello and welcome to another episode of 'Life is Artificial', where we explore the cutting edge of technology, innovation, and what the future could look like.",
+      "key": "ai_coding0",
+      "duration": 9.912
+    },
+    {
+      "speaker": "Host",
+      "text": "Today, we're diving into a fascinating story about the fierce competition between some of the biggest names in AI—OpenAI, Google, Anthropic, and more—all vying for dominance in coding with large language models. This story comes from a recent article titled 'The Startup Fueling OpenAI and Anthropic's Coding Race' by Amir Efrati on The Information. Let me set the scene for you.",
+      "key": "ai_coding1",
+      "duration": 23.736
+    },
+    {
+      "speaker": "Host",
+      "text": "Last fall, Google's AI leaders were in a rush. They had just learned that OpenAI was using a startup called Turing to train its language models to be better at coding. This was a big deal—coding is at the heart of how these AI models learn to solve problems. So, naturally, Google wanted in on the action. They reached out to Turing and struck a multimillion-dollar deal. But let's take a step back and talk about why this is important.",
+      "key": "ai_coding2",
+      "duration": 27.288
+    },
+    {
+      "speaker": "Host",
+      "text": "Turing is a startup that provides skilled programmers on demand. They're not just any programmers—Turing's developers evaluate AI models on their coding abilities, essentially teaching these models to think and solve problems like real software engineers. This isn't just about writing code. The better a model can code, the better it becomes at answering all sorts of questions that have nothing to do with software. It's about making AI more rigorous and capable in reasoning across different domains.",
+      "key": "ai_coding3",
+      "duration": 31.728
+    },
+    {
+      "speaker": "Host",
+      "text": "Google wasn't the only company interested in Turing's expertise. OpenAI, Anthropic, Microsoft, Meta, and other AI giants have all worked with Turing to boost the coding abilities of their models. The idea is simple: by training these models on coding tasks, you make them smarter, sharper, and more reliable across all types of challenges.",
+      "key": "ai_coding4",
+      "duration": 20.928
+    },
+    {
+      "speaker": "Host",
+      "text": "For Turing, this has been a golden opportunity. Their business has grown rapidly, and they're now projecting to double their revenue this year to $240 million. They've expanded their services beyond just coding to include model evaluation in areas like finance, medicine, and even marketing. It's part of a broader trend—AI developers are racing to automate as many tasks as possible, transforming knowledge from human minds into machine minds.",
+      "key": "ai_coding5",
+      "duration": 28.32
+    },
+    {
+      "speaker": "Host",
+      "text": "One of the really interesting aspects of this story is how Turing and similar companies like Scale AI are not only helping to shape the AI landscape but also positioning themselves as key players in the consulting world. Think about it—traditional consulting firms like Accenture or BCG are being challenged by AI startups that can provide specialized knowledge, but with far less overhead. Instead of offices and a huge sales team, Turing runs remotely, offering clients software programmers who can start work within a day or two. It's a new way of doing things.",
+      "key": "ai_coding6",
+      "duration": 35.328
+    },
+    {
+      "speaker": "Host",
+      "text": "Jonathan Siddharth, the CEO of Turing, is an interesting character in all of this. He was born near Chennai, India, and has a long history in AI. After getting a graduate degree in computer science at Stanford, he went on to co-found Turing in 2018. His vision? To create a global network of talented programmers who can work remotely for American firms at a fraction of the cost. And it's working. During the pandemic, the need for remote talent skyrocketed, and Turing was there to meet that demand.",
+      "key": "ai_coding7",
+      "duration": 31.776
+    },
+    {
+      "speaker": "Host",
+      "text": "The 'dark art' of AI that Siddharth talks about—post-training—sounds mysterious, but it's really about the human raters who spend hours evaluating how well these models generate code. It's a painstaking process, but it's crucial for refining the models and making them useful for people. And that’s what led to OpenAI's success with ChatGPT, which became a game-changer for software developers everywhere.",
+      "key": "ai_coding8",
+      "duration": 25.392
+    },
+    {
+      "speaker": "Host",
+      "text": "But the story doesn’t end there. Google wanted what OpenAI had achieved, and they were willing to work through the holidays to make it happen. Turing’s partnership with Google was a turning point, not just for Google, but for Turing itself. As more companies started seeing the value of better coding models, Turing found itself in high demand.",
+      "key": "ai_coding9",
+      "duration": 21.528
+    },
+    {
+      "speaker": "Host",
+      "text": "So, what does all of this mean for the future of AI? Well, we're seeing a major shift. The ability to code is becoming a benchmark for how capable an AI model is. It’s not just about writing Python or Java—it’s about applying logic, solving complex problems, and reasoning in ways that humans do. Companies like Turing are at the forefront of this movement, and as they expand their services, we're going to see AI models that can do much more than we ever imagined.",
+      "key": "ai_coding10",
+      "duration": 29.088
+    },
+    {
+      "speaker": "Host",
+      "text": "To wrap up, the race to develop the best AI coder is more than just a tech story—it's about redefining what AI can do for us in every industry. From helping businesses build apps to automating workflows that once required human intelligence, the future is exciting, and companies like Turing are making it happen.",
+      "key": "ai_coding11",
+      "duration": 19.728
+    },
+    {
+      "speaker": "Host",
+      "text": "Thank you for joining me today on 'Life is Artificial'. If you found this episode insightful, make sure to check out the article by Amir Efrati on The Information—I've linked it in the episode description. Stay tuned for more deep dives into the world of AI and technology, and as always, keep dreaming of what the future could be.",
+      "key": "ai_coding12",
+      "duration": 20.808
+    }
+  ]
+}

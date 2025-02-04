@@ -1,0 +1,79 @@
+{
+  "title": "The Beatles’ Final Song: How AI Helped Complete 'Now and Then' and Earn Grammy Nods",
+  "description": "Exploring how AI revived The Beatles’ last song, 'Now and Then,' after decades on the shelf, allowing it to gain Grammy recognition.",
+  "reference": "https://interestingengineering.com/culture/beatles-last-ai-song-grammy?utm_source=twitter&utm_medium=article_post",
+  "script": [
+    {
+      "speaker": "Host",
+      "text": "Hello and welcome to another episode of 'Life is Artificial,' where we explore the cutting edge of technology, innovation, and what the future could look like.",
+      "key": "ai_beatles_song0",
+      "duration": 10.260000000000002
+    },
+    {
+      "speaker": "Host",
+      "text": "Today, we’re diving into a truly historic moment in music. The Beatles have returned to the Grammy stage with their final song, 'Now and Then,' a track enhanced with artificial intelligence. This song, decades in the making, is now competing in two Grammy categories: Record of the Year and Best Rock Performance. Let’s explore the journey that made this possible.",
+      "key": "ai_beatles_song1",
+      "duration": 22.932000000000002
+    },
+    {
+      "speaker": "Host",
+      "text": "Our story begins with John Lennon. 'Now and Then' was originally written and recorded by him in the late 1970s. However, it wasn’t discovered until 1994 when Lennon’s widow, Yoko Ono, found and shared the recordings with the remaining Beatles: Paul McCartney, George Harrison, and Ringo Starr. The song faced technical obstacles, so it stayed shelved until recent years.",
+      "key": "ai_beatles_song2",
+      "duration": 24.612000000000002
+    },
+    {
+      "speaker": "Host",
+      "text": "Back in 1995, the Beatles released two of the other songs Lennon recorded, 'Free as a Bird' and 'Real Love,' but 'Now and Then' proved especially difficult to work with. The team struggled to isolate Lennon’s vocals from his piano accompaniment. They couldn’t achieve the clear mix they needed back then, so they set the track aside. This might have been the end of the story, but technology would eventually bring 'Now and Then' back to life.",
+      "key": "ai_beatles_song3",
+      "duration": 28.476
+    },
+    {
+      "speaker": "Host",
+      "text": "In June 2023, Paul McCartney revealed in an interview with the BBC that AI technology finally allowed them to unlock the potential of 'Now and Then.' The breakthrough came from an audio isolation technique used in the recent documentary series, 'The Beatles: Get Back,' directed by Peter Jackson. They used a tool called MAL audio technology to separate vocals and instruments from the original recordings. This tech allowed them to isolate Lennon’s voice from the piano, bringing a clarity they had never achieved before.",
+      "key": "ai_beatles_song4",
+      "duration": 33.684
+    },
+    {
+      "speaker": "Host",
+      "text": "McCartney described hearing Lennon’s voice, crystal clear and unclouded, thanks to this technology. He said, 'There it was, John’s voice, crystal clear. It’s quite emotional. And we all play on it; it’s a genuine Beatles recording. In 2023, to still be working on Beatles music and about to release a new song the public haven’t heard, I think it’s an exciting thing.'",
+      "key": "ai_beatles_song5",
+      "duration": 23.46
+    },
+    {
+      "speaker": "Host",
+      "text": "With AI-enhanced clarity, McCartney and Starr set out to revive 'Now and Then.' They took Harrison’s guitar parts recorded back in 1995 and added a new drum track by Starr. McCartney contributed on bass, guitar, and piano, adding a slide guitar solo as a tribute to Harrison. Both McCartney and Starr also layered their vocals into the mix, creating a harmony that brings all four Beatles back together one last time.",
+      "key": "ai_beatles_song6",
+      "duration": 27.132
+    },
+    {
+      "speaker": "Host",
+      "text": "Ringo Starr shared his experience of working on the song, saying, 'It was the closest we’ll ever come to having him (Lennon) back in the room, so it was very emotional for all of us. It was like John was there, you know. It’s far out.'",
+      "key": "ai_beatles_song7",
+      "duration": 14.700000000000001
+    },
+    {
+      "speaker": "Host",
+      "text": "The song’s release on November 3, 2023, brought a beautiful sense of closure for fans, and it has been celebrated worldwide. In a poetic gesture, 'Now and Then' was released as a vinyl and cassette single alongside the Beatles’ first single, 'Love Me Do.' The release bridges a musical journey from the band’s earliest days to their last song, creating a full-circle moment that captures their legacy.",
+      "key": "ai_beatles_song8",
+      "duration": 26.1
+    },
+    {
+      "speaker": "Host",
+      "text": "With Grammy nominations in two prestigious categories, this AI-enhanced song is more than just a technical achievement. It’s a testament to how technology can honor and preserve the essence of human artistry, even decades after a song’s creation. The use of AI here showcases the potential of technology to extend creative possibilities, helping artists bring projects to life that would otherwise be left unfinished.",
+      "key": "ai_beatles_song9",
+      "duration": 26.604
+    },
+    {
+      "speaker": "Host",
+      "text": "As we look to the future, 'Now and Then' reminds us of AI’s ability to preserve voices and stories. By using it to restore and enhance art, we’re not just looking back but also moving forward, combining the past with new technology to create something enduring. For fans, this song offers a chance to feel, perhaps one last time, the magic of The Beatles.",
+      "key": "ai_beatles_song10",
+      "duration": 22.808
+    },
+    {
+      "speaker": "Host",
+      "text": "Thanks for tuning in to 'Life is Artificial.' If you enjoyed today’s story, please share it with friends and let’s keep exploring how AI is reshaping art, music, and every corner of our lives. Until next time, take care!",
+      "key": "ai_beatles_song11",
+      "duration": 13.908000000000001
+    }
+  ]
+}

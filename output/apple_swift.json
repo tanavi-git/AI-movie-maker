@@ -1,0 +1,85 @@
+{
+  "title": "Is Apple Killing Swift? A Deep Dive into Programming Language Governance",
+  "description": "In this episode, we explore the controversial evolution of the Swift programming language and Apple's role in its governance. Has Swift strayed too far from its original vision? We take a look at the recent criticism and the hope for the future.",
+  "reference": "https://blog.jacobstechtavern.com/p/apple-is-killing-swift",
+  "script": [
+    {
+      "speaker": "Host",
+      "text": "Hello and welcome to another episode of 'life is artificial,' where we explore the cutting edge of technology, innovation, and what the future could look like.",
+      "key": "apple_swift0",
+      "duration": 9.936
+    },
+    {
+      "speaker": "Host",
+      "text": "Today, we’re diving into a heated debate: Is Apple killing Swift? Swift, as many of you know, is a programming language developed by Apple, and it's been beloved by many developers for its simplicity and modern features. But recently, there's been growing criticism of the way Apple manages Swift's development, and some say it's leading to the language's slow demise.",
+      "key": "apple_swift1",
+      "duration": 22.8
+    },
+    {
+      "speaker": "Host",
+      "text": "The inspiration for today's topic comes from a thought-provoking article published on Jacob’s Tech Tavern, titled 'Apple is Killing Swift.' If you haven’t read it, I'd highly recommend checking it out. The link is in the episode description. The author, Jacob, pulls no punches, discussing how Swift has changed since its original creator, Chris Lattner, left Apple in 2017. And let me tell you, the story is more dramatic than you might expect for a programming language!",
+      "key": "apple_swift2",
+      "duration": 29.88
+    },
+    {
+      "speaker": "Host",
+      "text": "So, let’s start with a little history lesson. Swift was the brainchild of Chris Lattner, who created it as a modern replacement for Objective-C. He wanted to design a language that was easy to use—simple things that compose well, progressive disclosure, and one way to do things. Swift had a clear vision, and it gained a lot of traction in the developer community because it promised to be a more elegant and approachable language for building Apple software.",
+      "key": "apple_swift3",
+      "duration": 28.872
+    },
+    {
+      "speaker": "Host",
+      "text": "But according to the article, Swift’s development took a sharp turn when Lattner left Apple to pursue work on AI. Without his influence, the language became a battleground between the open-source community and Apple’s corporate interests. The article describes how Swift now sits at an uncomfortable point between Apple, which pays the bills and has its own incentives, and the open-source community, which often feels disregarded by the decision-making process.",
+      "key": "apple_swift4",
+      "duration": 29.064
+    },
+    {
+      "speaker": "Host",
+      "text": "The governance of a programming language is incredibly important because it determines how it evolves. Take Python, for example—initially guided by a 'benevolent dictator for life,' Guido van Rossum, until he stepped down in 2018. Now, Python is maintained by a steering council, and changes are discussed openly by the community. Rust, too, follows a similar community-driven model, with its governance tied to the Rust Foundation and an RFC process that involves a lot of discussion and debate.",
+      "key": "apple_swift5",
+      "duration": 31.56
+    },
+    {
+      "speaker": "Host",
+      "text": "Swift, on the other hand, is governed in a more authoritarian way, with Apple holding the reins. They pay the salaries of most core contributors, and they appoint the leadership team. Apple’s main goal, naturally, is profit—more developers building apps means more apps on the App Store, which ultimately leads to more revenue. But the article argues that these incentives don’t always align well with what’s best for the language or for the developer community.",
+      "key": "apple_swift6",
+      "duration": 28.824
+    },
+    {
+      "speaker": "Host",
+      "text": "One of the most striking examples the article gives is the introduction of SwiftUI in 2019. Apple pushed through a number of new features, like opaque result types and property wrappers, without the usual open community discussions. The main reason? These features were needed for SwiftUI, Apple's shiny new UI framework, and Apple had its own internal timelines to meet. Sure, the result looks sleek, but it comes at a cost—added complexity, tech debt, and a language that feels increasingly like a collection of special cases.",
+      "key": "apple_swift7",
+      "duration": 33.576
+    },
+    {
+      "speaker": "Host",
+      "text": "Jacob points out that Swift now has 217 keywords, which seems pretty far from Lattner’s original goal of progressive disclosure and simplicity. The community has expressed frustration over Apple’s lack of transparency and the way they push forward changes without enough consideration for broader input. Lattner himself commented on this in 2024, describing Swift as 'a gigantic, super complicated bag of special cases.'",
+      "key": "apple_swift8",
+      "duration": 27.816
+    },
+    {
+      "speaker": "Host",
+      "text": "So where does that leave us? Is there any hope for Swift to get back on track? Well, there are some positive signs. The article notes that Apple has started taking some cues from Rust's governance model, introducing specialised steering groups and involving contributors from outside Apple. There’s even a focus now on expanding Swift's use outside of Apple's walled garden—onto platforms like Windows and even Arduino. Apple is also re-writing foundational libraries to make them more platform-agnostic, which could open up new opportunities for Swift.",
+      "key": "apple_swift9",
+      "duration": 34.68
+    },
+    {
+      "speaker": "Host",
+      "text": "It’s clear that Swift is at a crossroads. Will it return to its roots of simplicity and accessibility, or will it continue to evolve in a way that benefits Apple’s business interests over the community's wishes? Only time will tell. But as a programming language that many developers use day-to-day, it’s important that Swift maintains a governance model that keeps the developer community engaged and its vision intact.",
+      "key": "apple_swift10",
+      "duration": 26.448
+    },
+    {
+      "speaker": "Host",
+      "text": "I’d love to hear your thoughts on this. If you’re a developer, have you felt the changes in Swift since Chris Lattner left? Do you think Apple’s governance structure is ultimately hurting the language, or are they making the right moves for their ecosystem? Let’s keep this conversation going—feel free to reach out to me on social media or leave a comment on this episode’s post.",
+      "key": "apple_swift11",
+      "duration": 23.928
+    },
+    {
+      "speaker": "Host",
+      "text": "Thanks for tuning in to 'life is artificial.' If you enjoyed this episode, make sure to subscribe and share it with your fellow tech enthusiasts. We’ve got more deep dives into the world of technology coming your way, and I can’t wait to explore them with you. Until next time, keep questioning, keep exploring, and stay curious!",
+      "key": "apple_swift12",
+      "duration": 20.4
+    }
+  ]
+}

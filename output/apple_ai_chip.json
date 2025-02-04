@@ -1,0 +1,95 @@
+{
+  "title": "AppleがAI向けサーバー用チップを開発中",
+  "description": "AppleがAI向けのチップ開発を通じて、自社のAIサービスを完成させるための話。Broadcomとの協業や、チップレット技術、Nvidiaとの関係にも触れます。",
+  "tts": "nijivoice",
+  "voices": [
+    "c05bf02d-bed2-4335-aa69-0798e9e85205",
+    "b9277ce3-ba1c-4f6f-9a65-c05ca102ded0",
+    "bc06c63f-fef6-43b6-92f7-67f919bd5dae"
+  ],
+  "speakers": [
+    "Announcer",
+    "Student",
+    "Teacher"
+  ],
+  "script": [
+    {
+      "speaker": "Announcer",
+      "text": "今日はAppleが開発している新しいAI向けのチップについて、太郎くんが先生に聞きます。",
+      "filename": "apple_ai_chip0",
+      "duration": 6.9351
+    },
+    {
+      "speaker": "Student",
+      "text": "先生、Appleが自分でAIのためのチップを作っていると聞いたんですが、それってどういうことですか？",
+      "filename": "apple_ai_chip1",
+      "duration": 7.09185
+    },
+    {
+      "speaker": "Teacher",
+      "text": "いい質問だね。Appleは自分たちの「AIサーバー」で使うために、特別なチップを開発しているんだ。これは「Baltra」というコードネームがつけられているよ。",
+      "filename": "apple_ai_chip2",
+      "duration": 11.402050000000001
+    },
+    {
+      "speaker": "Student",
+      "text": "AIサーバーってなんですか？",
+      "filename": "apple_ai_chip3",
+      "duration": 2.0502
+    },
+    {
+      "speaker": "Teacher",
+      "text": "AIサーバーは、AIのしごとをしてくれる「スーパーコンピュータ」のことだよ。小さなAIならスマホで動かせるんだけど、大きくて賢いAIを動かす場合には、AIサーバーの助けを借りる必要があるんだ。",
+      "filename": "apple_ai_chip4",
+      "duration": 15.111450000000001
+    },
+    {
+      "speaker": "Student",
+      "text": "Broadcomってなんですか？",
+      "filename": "apple_ai_chip5",
+      "duration": 1.9457
+    },
+    {
+      "speaker": "Teacher",
+      "text": "Broadcomは、チップを連携させて、より早く計算をできる技術を強く持っている会社だよ。Appleも、Broadcomの技術を使ってチップをネットワークで連携させるんだ。これで複数のチップが一緒に動けるのが強みだよ。",
+      "filename": "apple_ai_chip6",
+      "duration": 15.73835
+    },
+    {
+      "speaker": "Student",
+      "text": "Nvidiaとは違うんですか？",
+      "filename": "apple_ai_chip7",
+      "duration": 2.0502
+    },
+    {
+      "speaker": "Teacher",
+      "text": "Nvidiaは、この仕事で世界一のシェアを持つ大手会社なんだ。大手テクノロジー会社の多くはNvidiaのチップを使っているけれど、Appleは「自分たちのチップで安全に動かせたい」って思って、自実現を目指しているんだよ。だから、そのためにBaltraを開発しているともいわれているよ。",
+      "filename": "apple_ai_chip8",
+      "duration": 20.2837
+    },
+    {
+      "speaker": "Student",
+      "text": "Nvidiaに依存しないのはすごいですね！Appleのチップが完成したら、もっとたくさんのAIが使えるようになるんですね！",
+      "filename": "apple_ai_chip9",
+      "duration": 7.7448999999999995
+    },
+    {
+      "speaker": "Teacher",
+      "text": "そうだよ！。たとえば、ありとあらゆる可能性を考えて、もっと速く、安全にAIが働いてくれるようになる。Appleの新しいチップが完成するのは2026年だと言われているよ。楽しみだね！",
+      "filename": "apple_ai_chip10",
+      "duration": 15.924900000000001
+    },
+    {
+      "speaker": "Student",
+      "text": "はい！働くまでの流れを見るのが楽しみです！",
+      "filename": "apple_ai_chip11",
+      "duration": 3.5652999999999997
+    }
+  ],
+  "filename": "apple_ai_chip",
+  "voicemap": {
+    "Announcer": "c05bf02d-bed2-4335-aa69-0798e9e85205",
+    "Student": "b9277ce3-ba1c-4f6f-9a65-c05ca102ded0",
+    "Teacher": "bc06c63f-fef6-43b6-92f7-67f919bd5dae"
+  }
+}

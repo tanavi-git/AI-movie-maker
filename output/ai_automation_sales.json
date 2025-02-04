@@ -1,0 +1,85 @@
+{
+  "title": "AI in Sales: The Fear and Skepticism of Automation",
+  "description": "Exploring the impact of AI automation on sales roles, from efficiency gains to fears of job losses. Featuring insights from startups like 11x and industry giants like Salesforce.",
+  "reference": "https://www.theinformation.com/articles/fear-and-skepticism-ai-automation-arrives-for-salespeople?rc=rvvbkr",
+  "script": [
+    {
+      "speaker": "Host",
+      "text": "Hello and welcome to another episode of 'Life is Artificial', where we explore the cutting edge of technology, innovation, and what the future could look like.",
+      "key": "ai_automation_sales0",
+      "duration": 9.96
+    },
+    {
+      "speaker": "Host",
+      "text": "Today, we are diving into a topic that has stirred both excitement and concern—artificial intelligence's role in the world of sales. Could AI eventually replace junior salespeople, or is it simply another tool to make them more efficient? We will explore both sides of the debate, with insights from an article titled 'Fear and Skepticism: AI Automation Arrives for Salespeople' by Jon Victor and Aaron Holmes, published on The Information.",
+      "key": "ai_automation_sales1",
+      "duration": 27.6
+    },
+    {
+      "speaker": "Host",
+      "text": "Imagine you're a junior salesperson. You spend your days sending hundreds of cold emails or making call after call to prospects. It’s a routine that often feels like a grind, and frankly, it’s repetitive. Now, enter AI automation—a technology that promises to take over those very tasks, freeing you up for more engaging work. But is it really that simple?",
+      "key": "ai_automation_sales2",
+      "duration": 22.2
+    },
+    {
+      "speaker": "Host",
+      "text": "At the startup Runway, executives wanted to boost sales productivity. They built a tool using OpenAI’s technology to automate drafting emails for potential customers. To make these emails feel more 'human,' they even had the AI insert a typo or two—something designed to trick the reader into thinking it wasn't machine-generated. The result? A system that saves their 12-person sales team dozens of hours a week, allowing them to focus on warmer leads.",
+      "key": "ai_automation_sales3",
+      "duration": 28.8
+    },
+    {
+      "speaker": "Host",
+      "text": "But, AI in sales is not without its cost. For Runway, it’s about $10,000 per month. While that might seem high, it’s cheaper than hiring another full-time salesperson. According to CEO Siqi Chen, this tool hasn't replaced any jobs—yet. Rather, it has simply changed how their existing salespeople spend their time.",
+      "key": "ai_automation_sales4",
+      "duration": 20.352
+    },
+    {
+      "speaker": "Host",
+      "text": "Let’s look at another company. A startup named 11x, founded by Hasan Sukkar, is betting big on replacing the junior salesperson altogether. They've created software that automates the cold calling and email outreach process. Sukkar claims their AI system only makes two errors per thousand emails, better than most human salespeople. It's no surprise then that companies like Brex and Otter.ai are among their customers.",
+      "key": "ai_automation_sales5",
+      "duration": 26.736
+    },
+    {
+      "speaker": "Host",
+      "text": "However, not everyone is thrilled about this technological shift. AI automation, especially in sales, has prompted a lot of anxiety among workers. With more than 650,000 people in sales development roles in the United States alone, many are worried they might be next in line for layoffs. Microsoft, for example, cut 150 junior sales jobs last year—roles that involved tasks now easily automated.",
+      "key": "ai_automation_sales6",
+      "duration": 26.376
+    },
+    {
+      "speaker": "Host",
+      "text": "Even the giants in the industry, like Salesforce and Microsoft, are developing their own AI tools—not to replace salespeople but to make their teams more efficient. Salesforce has introduced an AI-driven feature called 'Sales Coach,' which suggests talking points in real time during customer calls. The company says it has no plans to replace large chunks of its workforce—at least not yet—but that may change as AI evolves.",
+      "key": "ai_automation_sales7",
+      "duration": 26.832
+    },
+    {
+      "speaker": "Host",
+      "text": "But here’s the thing: while AI is great at automating repetitive tasks, it's still not perfect when it comes to sounding genuinely human. Dan Hnatkovskyy, CEO of NewHomesMate, found that AI-generated emails sounded robotic and were significantly less effective than those crafted by a real person. The problem, he said, was that buyers simply didn’t want to engage with something they knew was automated.",
+      "key": "ai_automation_sales8",
+      "duration": 25.296
+    },
+    {
+      "speaker": "Host",
+      "text": "Similarly, Mike Goynes, an entrepreneur in Virginia, tried using 11x and Artisan's services for his side business. After sending thousands of AI-generated emails, he only received a handful of responses. The lack of personalization seemed to be the culprit. The feedback he got? His business was 'too niche' for the AI to accurately find and engage the right leads.",
+      "key": "ai_automation_sales9",
+      "duration": 23.088
+    },
+    {
+      "speaker": "Host",
+      "text": "The debate around AI automation in sales is far from settled. On one hand, it’s increasing productivity, cutting costs, and allowing salespeople to focus on the human aspect of sales—building relationships and closing deals. On the other hand, it's clear that AI still struggles with nuances like empathy, personalization, and genuine connection—qualities that are fundamental to sales success.",
+      "key": "ai_automation_sales10",
+      "duration": 24.6
+    },
+    {
+      "speaker": "Host",
+      "text": "So, what do you think? Is AI a threat to jobs or simply a new tool that will change how we work? Should junior salespeople be concerned about their futures, or should they embrace this technology as an opportunity to upskill and focus on more strategic tasks? It’s a nuanced conversation, and we’d love to hear your thoughts.",
+      "key": "ai_automation_sales11",
+      "duration": 20.376
+    },
+    {
+      "speaker": "Host",
+      "text": "That’s it for today's episode of 'Life is Artificial.' If you enjoyed this discussion, don't forget to subscribe and leave us a review. For more details on the article we covered today, check out the link in the show notes. Once again, the article is titled 'Fear and Skepticism: AI Automation Arrives for Salespeople' by Jon Victor and Aaron Holmes, published on The Information. Until next time, stay curious, stay informed, and remember—life is artificial, but the possibilities are real.",
+      "key": "ai_automation_sales12",
+      "duration": 30.288
+    }
+  ]
+}

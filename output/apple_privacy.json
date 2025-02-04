@@ -1,0 +1,91 @@
+{
+  "title": "Apple's Privacy Revolution: Homomorphic Encryption Meets Machine Learning",
+  "description": "In this episode, we dive into how Apple combines homomorphic encryption with machine learning to ensure user privacy while providing enriched on-device experiences.",
+  "reference": "https://machinelearning.apple.com/research/homomorphic-encryption",
+  "script": [
+    {
+      "speaker": "Host",
+      "text": "Hello and welcome to another episode of 'life is artificial', where we explore the cutting edge of technology, innovation, and what the future could look like.",
+      "key": "apple_privacy0",
+      "duration": 9.96
+    },
+    {
+      "speaker": "Host",
+      "text": "Today, we're diving into an exciting innovation happening right now at Apple, which could change the way we think about data privacy and machine learning. We're going to talk about Apple's work on combining Machine Learning and Homomorphic Encryption in the Apple ecosystem.",
+      "key": "apple_privacy1",
+      "duration": 17.208
+    },
+    {
+      "speaker": "Host",
+      "text": "Now, before we get into the technical details, let me first say that this topic comes straight from Apple's Machine Learning Research blog.",
+      "key": "apple_privacy2",
+      "duration": 8.712
+    },
+    {
+      "speaker": "Host",
+      "text": "So, let's get started. What Apple is doing here is quite fascinating. They're essentially combining machine learning—something that helps our devices understand and interact with us in smarter ways—with something called homomorphic encryption, which is a type of cryptography that allows computations to be performed on encrypted data. Imagine sending a message that is fully encrypted, and even though no one can see its contents, they can still perform some operations on it and send it back to you. Sounds almost magical, right?",
+      "key": "apple_privacy3",
+      "duration": 33.264
+    },
+    {
+      "speaker": "Host",
+      "text": "But there's nothing supernatural about it. It's all very technical, and it's actually one of the most sophisticated ways to protect data privacy that we have today. Homomorphic encryption ensures that even when your data is being processed on a server, that server can't see what your data actually is. Apple is using this approach to uphold their commitment to user privacy while still giving users enriched experiences, like smarter search results and contextual information for photos and messages.",
+      "key": "apple_privacy4",
+      "duration": 31.632
+    },
+    {
+      "speaker": "Host",
+      "text": "One example of this is in Apple's Photos app. They’ve introduced something called Enhanced Visual Search. This feature allows users to search for landmarks or points of interest within their own photo library. For this to work, your device analyzes a photo and tries to find landmarks within it. But instead of just sending that data off to a server for further analysis, Apple does something different.",
+      "key": "apple_privacy5",
+      "duration": 25.344
+    },
+    {
+      "speaker": "Host",
+      "text": "Here's where homomorphic encryption comes in. Your device encrypts the search query—meaning the data about the photo—and sends it to Apple's server. The server processes that data while it’s still encrypted, and then sends back an encrypted response, which your device decrypts. Throughout the entire process, Apple's servers never see your photo or any private data related to it. They only see the encrypted version of it, and they operate on that without ever knowing what's inside.",
+      "key": "apple_privacy6",
+      "duration": 30.36
+    },
+    {
+      "speaker": "Host",
+      "text": "It's not just photos, though. This technology is being applied to other use cases as well, like email, caller ID, and even web content filtering. Take the Mail app, for example. When you get an email from a business, your device may want to show you the logo and other information. But to do that, it needs to look up some data from a server. With homomorphic encryption and something called Private Information Retrieval, or PIR, your email details stay private while still getting the needed information from Apple’s database without revealing your exact query.",
+      "key": "apple_privacy7",
+      "duration": 34.92
+    },
+    {
+      "speaker": "Host",
+      "text": "For approximate searches, Apple uses something called Private Nearest Neighbor Search, or PNNS. Imagine you want to find similar landmarks in your photo library. Your device encrypts a vector representation of your photo and sends it to the server, where the server then runs a nearest neighbor search, fully encrypted. This ensures that even as Apple's servers are helping your device learn about what's in your photos, they never actually see them. Privacy remains intact.",
+      "key": "apple_privacy8",
+      "duration": 29.616
+    },
+    {
+      "speaker": "Host",
+      "text": "Now, all of this isn't just about privacy—it's also about practicality. Homomorphic encryption has a reputation for being computationally intensive, and often impractical for everyday use due to its processing requirements. But Apple has managed to implement it at scale, making it efficient enough to power features like Enhanced Visual Search and Mail lookups. They even use clever optimizations, like dividing server databases into smaller clusters and applying differential privacy to hide sensitive data from being revealed, even indirectly.",
+      "key": "apple_privacy9",
+      "duration": 34.272
+    },
+    {
+      "speaker": "Host",
+      "text": "To make this technology even more accessible, Apple has open-sourced a library called swift-homomorphic-encryption, so that developers out there can start building applications that leverage homomorphic encryption in their own projects. It really shows Apple's commitment not only to their own ecosystem but also to the developer community at large.",
+      "key": "apple_privacy10",
+      "duration": 22.104
+    },
+    {
+      "speaker": "Host",
+      "text": "So, what does all this mean for us? Well, it means that privacy, even in a world where we expect more and more personalized experiences, is still a top priority. It’s a balance that Apple seems determined to achieve, and they're sharing the tools so others can follow suit.",
+      "key": "apple_privacy11",
+      "duration": 16.632
+    },
+    {
+      "speaker": "Host",
+      "text": "As technology enthusiasts, it's always exciting to see how the cutting edge of AI and privacy tech come together to solve real challenges. Homomorphic encryption was once considered almost theoretical, but today it’s being used in our everyday devices. It’s innovations like these that make me excited for the future—because it shows we can still have powerful technology that respects our fundamental rights to privacy.",
+      "key": "apple_privacy12",
+      "duration": 26.52
+    },
+    {
+      "speaker": "Host",
+      "text": "If you'd like to learn more about this, you can check out the full article from Apple's Machine Learning Research blog. I've linked it in the show notes. And as always, thank you for tuning into 'life is artificial'. Don't forget to subscribe if you enjoyed today's episode and share it with anyone who might find this as fascinating as we do. Until next time, keep exploring, keep innovating, and stay curious.",
+      "key": "apple_privacy13",
+      "duration": 25.608
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "title": "AIとエッジコンピューティング時代の日本の可能性",
+  "description": "AIの発展とエッジコンピューティングの時代における日本の可能性について、分かりやすく解説する対話形式の台本",
+  "tts": "nijivoice",
+  "voices": [
+    "afd7df65-0fdc-4d31-ae8b-a29f0f5eed62",
+    "a7619e48-bf6a-4f9f-843f-40485651257f",
+    "bc06c63f-fef6-43b6-92f7-67f919bd5dae"
+  ],
+  "charactors": [
+    "春玲",
+    "太郎",
+    "山田先生"
+  ],
+  "speakers": [
+    "Announcer",
+    "Student",
+    "Teacher"
+  ],
+  "script": [
+    {
+      "speaker": "Announcer",
+      "text": "米国で活躍するエンジニアが新しい技術やビジネスを分かりやすく解説する、中島聡のLife is beautiful。今日は、AIの世界地図が変わりつつある中で、日本にどんなチャンスがあるのかについて解説します。",
+      "imagePrompt": "A dynamic digital world map with glowing network connections, highlighting USA, China, and Japan, with AI-related icons and symbols floating above each region, rendered in a modern tech style with blue and white color scheme",
+      "filename": "yaorozu0",
+      "duration": 14.562850000000001
+    },
+    {
+      "speaker": "Student",
+      "text": "先生、ニュースでよく「AI」の話を聞きますが、今はアメリカが圧倒的に強いんですよね？",
+      "imagePrompt": "Silicon Valley skyline at sunset with prominent tech company logos floating in the sky, surrounded by binary code and AI neural network visualizations, modern corporate architecture",
+      "filename": "yaorozu1",
+      "duration": 5.7334499999999995
+    },
+    {
+      "speaker": "Teacher",
+      "text": "そうだね。今までは、Googleやオープンエーアイなどのアメリカの企業が、クラウドで動く大規模なAIの開発をリードしてきたんだ。でも、最近は中国も急速に力をつけてきているんだよ。",
+      "imagePrompt": "Split screen visualization: left side showing American tech giants' cloud servers with Google and OpenAI logos, right side showing emerging Chinese tech landscape with modern skyscrapers and data centers, connected by glowing digital streams",
+      "filename": "yaorozu2",
+      "duration": 14.066550000000001
+    },
+    {
+      "speaker": "Student",
+      "text": "なるほど。じゃあ、これからはアメリカと中国の二強時代になるんですか？",
+      "imagePrompt": "Two majestic digital mountains representing USA and China, with streams of data and AI algorithms flowing between them, creating a dramatic technological landscape in blue and red hues",
+      "filename": "yaorozu3",
+      "duration": 4.349
+    },
+    {
+      "speaker": "Teacher",
+      "text": "面白い見方をすると、今の状況は宗教の世界観に似ているんだ。アメリカ一強時代は「一神教」のような世界で、これからは中国も加わって「ギリシャ神話」のように複数の強い力が競争する世界になりつつあるんだよ。",
+      "imagePrompt": "Abstract visualization transitioning from a single bright light source (monotheism) to multiple interconnected light sources (Greek pantheon), rendered in a modern tech aesthetic with flowing data streams",
+      "filename": "yaorozu4",
+      "duration": 15.398800000000001
+    },
+    {
+      "speaker": "Student",
+      "text": "へぇ、でも日本はどうなんですか？出遅れてしまったんでしょうか...",
+      "imagePrompt": "Mount Fuji silhouette against a digital sunrise, with faint tech patterns and circuitry overlaid, suggesting potential and awakening",
+      "filename": "yaorozu5",
+      "duration": 4.76695
+    },
+    {
+      "speaker": "Teacher",
+      "text": "実は、これからの時代は日本にも大きなチャンスがあるんだ。それは「エッジコンピューティング」という新しい技術が重要になってくるからなんだよ。",
+      "imagePrompt": "Futuristic Japanese city street with numerous IoT devices and edge computing nodes glowing at various points, integrated seamlessly into the urban infrastructure",
+      "filename": "yaorozu6",
+      "duration": 9.573450000000001
+    },
+    {
+      "speaker": "Student",
+      "text": "エッジコンピューティングって何ですか？難しそうですね。",
+      "imagePrompt": "Simple diagram showing cloud computing center connected to multiple edge devices (smartphones, cars, home appliances) with data paths highlighted, modern minimal style",
+      "filename": "yaorozu7",
+      "duration": 3.40855
+    },
+    {
+      "speaker": "Teacher",
+      "text": "簡単に言うと、AIをクラウドの大きなコンピュータだけでなく、私たちの身の回りのいろんな機械で動かすことができる技術なんだ。たとえば、スマートフォンや家電、自動車の中でAIを動かすことができるんだよ。",
+      "imagePrompt": "Cross-section view of modern everyday devices (smartphone, robot vacuum, smart car) with glowing cores representing embedded AI processors, connected by subtle light trails",
+      "filename": "yaorozu8",
+      "duration": 15.790600000000001
+    },
+    {
+      "speaker": "Student",
+      "text": "へぇ！でも、なぜそれが日本のチャンスになるんですか？",
+      "imagePrompt": "Collection of high-precision Japanese electronic components and sensors arranged in an artistic pattern, with subtle AI visualization overlays",
+      "filename": "yaorozu9",
+      "duration": 3.2779499999999997
+    },
+    {
+      "speaker": "Teacher",
+      "text": "日本は、「モノづくり」が得意な国だからなんだ。高性能なセンサーや省エネ技術、精密な機械を作る技術力があるんだよ。これらは全部、エッジコンピューティングに必要な技術なんだ。",
+      "imagePrompt": "Detailed close-up of precision Japanese robotics and semiconductor manufacturing, with miniature AI chips and sensors being assembled with extreme precision",
+      "filename": "yaorozu10",
+      "duration": 14.5106
+    },
+    {
+      "speaker": "Student",
+      "text": "なるほど！日本の技術力が活かせるわけですね。",
+      "imagePrompt": "Traditional Japanese craftsmanship tools smoothly transitioning into modern precision instruments and AI components, showing evolution of expertise",
+      "filename": "yaorozu11",
+      "duration": 3.35635
+    },
+    {
+      "speaker": "Teacher",
+      "text": "そう。さらに面白いのは、日本の「八百万の神」という考え方とエッジAIが似ているところがあるんだ。日本人は、様々な場所や状況に合わせて細やかに対応することが得意でしょう？",
+      "imagePrompt": "Abstract visualization of Shinto torii gates transforming into edge computing nodes, spreading across a stylized Japanese landscape, representing distributed AI processing",
+      "filename": "yaorozu12",
+      "duration": 13.9098
+    },
+    {
+      "speaker": "Student",
+      "text": "確かに、おもてなしの文化とかありますよね！",
+      "imagePrompt": "Modern Japanese smart home interior with subtle AI interfaces harmoniously integrated into traditional design elements, showing technology serving human needs",
+      "filename": "yaorozu13",
+      "duration": 2.86
+    },
+    {
+      "speaker": "Teacher",
+      "text": "その通り。エッジAIも同じように、それぞれの場所や状況に合わせて最適な対応をする必要があるんだ。これは日本の文化や考え方と相性が良いんだよ。",
+      "imagePrompt": "Multiple scenes of everyday Japanese life (train station, convenience store, garden) with subtle AI assistance systems perfectly integrated, showing harmonious tech integration",
+      "filename": "yaorozu14",
+      "duration": 11.872250000000001
+    },
+    {
+      "speaker": "Student",
+      "text": "日本にもチャンスがあるって分かって良かったです。でも、何か課題はありますか？",
+      "imagePrompt": "Bridge made of binary code stretching from traditional Japanese pagoda to futuristic tech hub, symbolizing the path forward with both opportunities and challenges",
+      "filename": "yaorozu15",
+      "duration": 4.871449999999999
+    },
+    {
+      "speaker": "Teacher",
+      "text": "うん、ソフトウェアの開発力を高めることと、新しい企業がどんどん生まれてくる環境を作ることが必要だね。それに、日本の技術を世界に広めていく戦略も大切だよ。",
+      "imagePrompt": "Modern Japanese startup office space with code projections and global network connections, young companies growing like digital bamboo shoots",
+      "filename": "yaorozu16",
+      "duration": 13.28285
+    },
+    {
+      "speaker": "Student",
+      "text": "なるほど。僕たちの世代が頑張らないといけませんね！",
+      "imagePrompt": "Sunrise over a futuristic Tokyo skyline with edge computing nodes and AI systems integrated into the architecture, symbolizing hope and potential",
+      "filename": "yaorozu17",
+      "duration": 3.51305
+    },
+    {
+      "speaker": "Teacher",
+      "text": "その通り。日本の強みを活かしながら、新しい技術にも積極的に取り組んでいけば、きっと面白い未来が作れるはずだよ。",
+      "imagePrompt": "Futuristic vision of Japan combining traditional strengths with advanced technology: robots with zen garden precision, AI-powered bullet trains, and sustainable smart cities",
+      "filename": "yaorozu18",
+      "duration": 9.94285
+    },
+    {
+      "speaker": "Announcer",
+      "text": "ご視聴、ありがとうございました。次回の放送もお楽しみに。",
+      "imagePrompt": "Artistic ending card showing interweaving paths of tradition and technology forming the shape of Japan, with edge computing nodes twinkling like stars",
+      "filename": "yaorozu19",
+      "duration": 4.9759
+    }
+  ],
+  "filename": "yaorozu",
+  "ttsAgent": "ttsNijivoiceAgent",
+  "voicemap": {
+    "Announcer": "afd7df65-0fdc-4d31-ae8b-a29f0f5eed62",
+    "Student": "a7619e48-bf6a-4f9f-843f-40485651257f",
+    "Teacher": "bc06c63f-fef6-43b6-92f7-67f919bd5dae"
+  },
+  "imageInfo": [
+    {
+      "index": 0,
+      "image": "./images/yaorozu/0p.png"
+    },
+    {
+      "index": 1,
+      "image": "./images/yaorozu/1p.png"
+    },
+    {
+      "index": 2,
+      "image": "./images/yaorozu/2p.png"
+    },
+    {
+      "index": 3,
+      "image": "./images/yaorozu/3p.png"
+    },
+    {
+      "index": 4,
+      "image": "./images/yaorozu/4p.png"
+    },
+    {
+      "index": 5,
+      "image": "./images/yaorozu/5p.png"
+    },
+    {
+      "index": 6,
+      "image": "./images/yaorozu/6p.png"
+    },
+    {
+      "index": 7,
+      "image": "./images/yaorozu/7p.png"
+    },
+    {
+      "index": 8,
+      "image": "./images/yaorozu/8p.png"
+    },
+    {
+      "index": 9,
+      "image": "./images/yaorozu/9p.png"
+    },
+    {
+      "index": 10,
+      "image": "./images/yaorozu/10p.png"
+    },
+    {
+      "index": 11,
+      "image": "./images/yaorozu/11p.png"
+    },
+    {
+      "index": 12,
+      "image": "./images/yaorozu/12p.png"
+    },
+    {
+      "index": 13,
+      "image": "./images/yaorozu/13p.png"
+    },
+    {
+      "index": 14
+    },
+    {
+      "index": 15,
+      "image": "./images/yaorozu/15p.png"
+    },
+    {
+      "index": 16,
+      "image": "./images/yaorozu/16p.png"
+    },
+    {
+      "index": 17,
+      "image": "./images/yaorozu/17p.png"
+    },
+    {
+      "index": 18
+    },
+    {
+      "index": 19,
+      "image": "./images/yaorozu/19p.png"
+    }
+  ]
+}

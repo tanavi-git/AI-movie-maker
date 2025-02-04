@@ -1,0 +1,85 @@
+{
+  "title": "AI Business Model Revolution: From Per-Seat to Per-Outcome",
+  "description": "In this episode, we dive into the emerging trend of AI business models moving from per-seat licenses to outcome-based pricing, reshaping the value proposition of AI services.",
+  "reference": "https://www.sequoiacap.com/article/generative-ais-act-o1/",
+  "script": [
+    {
+      "speaker": "Host",
+      "text": "Hello and welcome to another episode of 'Life is Artificial,' where we explore the cutting edge of technology, innovation, and what the future could look like.",
+      "key": "ai_business_model0",
+      "duration": 9.888
+    },
+    {
+      "speaker": "Host",
+      "text": "Today, we're going to talk about something truly transformative that's taking shape in the AI world—a fundamental shift in the business model. We're moving away from the traditional 'per-seat' licensing that most software-as-a-service companies use, towards something much more dynamic: a 'per-resolution' or 'outcome-based' model. This change could dramatically alter how businesses think about value and the way AI products are used. It's all based on a fascinating new article called 'Generative AI’s Act o1' from Sequoia Capital, and if you’re interested, I'll include the link in the show notes for further reading.",
+      "key": "ai_business_model1",
+      "duration": 38.736
+    },
+    {
+      "speaker": "Host",
+      "text": "Now, let’s dive in. In the traditional SaaS model, companies have been accustomed to charging customers on a per-seat basis. This means, essentially, that every user who has access to the software contributes to the bottom line. Whether you're running a CRM, a project management tool, or even an AI model, the 'per-seat' model has been the default standard for decades.",
+      "key": "ai_business_model2",
+      "duration": 22.848
+    },
+    {
+      "speaker": "Host",
+      "text": "But AI is changing that game. In Generative AI's Act o1, Sequoia talks about a new model taking the stage—one where companies charge based on 'per resolution.' What does that mean, exactly? Instead of companies paying for every person using the AI system, they're paying for each specific outcome the AI accomplishes. Imagine a customer service bot. Instead of paying for every employee who uses that software, the company pays per customer issue resolved. The unit of value isn’t a user—it’s an outcome.",
+      "key": "ai_business_model3",
+      "duration": 31.68
+    },
+    {
+      "speaker": "Host",
+      "text": "This new business model is more than just a pricing strategy—it's a paradigm shift in how we think about software and its impact. It aligns the AI’s value directly with what it accomplishes, which could make adopting AI systems much more attractive to companies. If you’re paying only when the system delivers value, you have a very clear ROI. Suddenly, AI stops being a nebulous cost center and becomes a precise, measurable investment in outcomes.",
+      "key": "ai_business_model4",
+      "duration": 28.248
+    },
+    {
+      "speaker": "Host",
+      "text": "One of the examples from the article is an AI named Sierra, which is being used for customer support. Sierra doesn’t charge based on how many agents or support staff are using it. Instead, Sierra charges based on how many customer issues it resolves. Think about how revolutionary that is. It means that Sierra’s profitability directly depends on how well it performs, rather than on the number of seats purchased. Essentially, companies like Sierra are saying, 'We're confident enough in our capabilities that you only pay us when we deliver.'",
+      "key": "ai_business_model5",
+      "duration": 32.832
+    },
+    {
+      "speaker": "Host",
+      "text": "This shift is also reshaping the competitive landscape. Traditional SaaS companies might find it challenging to compete in a world where you only pay for results. The pressure to deliver value, every single time, is much higher. But it’s also an opportunity for AI-native companies that have been designed with this kind of model in mind from the start. Imagine no longer needing to convince your customers that your software is worth a per-seat fee every month. Instead, your value is demonstrated by your tangible outcomes—by the problems you solve, by the time you save, and by the direct impact you create.",
+      "key": "ai_business_model6",
+      "duration": 38.136
+    },
+    {
+      "speaker": "Host",
+      "text": "And let's be honest, this model isn’t just about making the pricing more appealing to customers. It’s about driving AI development in a direction that’s hyper-focused on efficiency, on solving real problems, and on being accountable for its impact. The better the AI, the more it earns. It’s a beautiful alignment of incentives that pushes technology to be better and more responsible.",
+      "key": "ai_business_model7",
+      "duration": 24.096
+    },
+    {
+      "speaker": "Host",
+      "text": "Now, this outcome-based model isn’t without its challenges. For one, companies need to build AI that can consistently deliver measurable outcomes. That means solving complex, real-world problems—not just being a helpful assistant, but an agent that gets work done, reliably. There’s also the question of how to quantify certain types of work—like creative tasks or nuanced decisions. But what’s clear is that this approach makes AI far more than just another tool; it becomes a partner in productivity, directly tied to the results it generates.",
+      "key": "ai_business_model8",
+      "duration": 34.008
+    },
+    {
+      "speaker": "Host",
+      "text": "The article from Sequoia Capital even goes so far as to suggest that this shift could be as significant as the move from on-premise software to cloud computing was. Twenty years ago, software-as-a-service seemed revolutionary. Today, we're witnessing the emergence of 'service-as-a-software'—where AI companies aren't just selling software, they're selling work, and getting paid based on what they achieve.",
+      "key": "ai_business_model9",
+      "duration": 25.512
+    },
+    {
+      "speaker": "Host",
+      "text": "So what does this mean for the future of AI? It means a focus on hyper-efficiency and reliability. It means AI will have to 'earn its keep,' so to speak, by producing real, measurable results. It also opens up AI to industries and applications that previously saw it as an added cost they couldn’t justify. With outcome-based pricing, the justification is built into the outcome—if the AI delivers, it pays for itself.",
+      "key": "ai_business_model10",
+      "duration": 26.064
+    },
+    {
+      "speaker": "Host",
+      "text": "And on that note, what do you think? Is this outcome-based model the future of all software, or are there industries where the traditional per-seat approach still makes sense? I'd love to hear your thoughts. Drop me a comment or a message, and let’s keep this conversation going.",
+      "key": "ai_business_model11",
+      "duration": 17.352
+    },
+    {
+      "speaker": "Host",
+      "text": "Thank you so much for tuning in to 'Life is Artificial.' I hope you found today's discussion as fascinating as I did. Make sure to check out the article, 'Generative AI’s Act o1,' from Sequoia for even more insights. The link is in the show notes. Until next time, keep thinking about what kind of future you want, and remember—life is artificial, but what we make of it is up to us.",
+      "key": "ai_business_model12",
+      "duration": 23.976
+    }
+  ]
+}

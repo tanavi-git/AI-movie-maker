@@ -1,0 +1,85 @@
+{
+  "title": "AI and the Future of Enterprise Software",
+  "description": "Exploring how AI is transforming enterprise software, challenging traditional systems like ERP, CRM, and HCM, and how AI-first principles could shape the future of business technology.",
+  "reference": "https://seekingalpha.com/news/4144652-klarna-shuts-down-salesforce-as-service-provider-workday-to-meet-same-fate-amid-ai-initiatives",
+  "script": [
+    {
+      "speaker": "Host",
+      "text": "Hello and welcome to another episode of 'life is artificial', where we explore the cutting edge of technology, innovation, and what the future could look like.",
+      "key": "aix_enterprise_shift0",
+      "duration": 9.936
+    },
+    {
+      "speaker": "Host",
+      "text": "Today, we're diving into a fascinating development in enterprise software that could very well reshape the way companies operate on a fundamental level. We're going to talk about AI, ERP systems, and the transformative power AI has to change not just how we use enterprise tools, but how we think about building them from the ground up.",
+      "key": "aix_enterprise_shift1",
+      "duration": 21.096
+    },
+    {
+      "speaker": "Host",
+      "text": "Let’s start with a bit of context. You might have heard that Klarna, a major fintech company, recently made waves by dropping Salesforce and Workday, two giants in the realm of CRM and HCM software. Instead, they’re leveraging AI to streamline operations and meet their needs. This move has sparked a lot of discussion around the future of enterprise software and whether AI could replace traditional systems altogether.",
+      "key": "aix_enterprise_shift2",
+      "duration": 26.352
+    },
+    {
+      "speaker": "Host",
+      "text": "Enterprise Resource Planning, or ERP, systems have been a backbone of business operations for decades. Think about all the essential functions that ERP covers—accounting, inventory, sales, production, HR—all integrated into a single unified system. It’s the stuff that keeps the lights on in companies large and small.",
+      "key": "aix_enterprise_shift3",
+      "duration": 19.752
+    },
+    {
+      "speaker": "Host",
+      "text": "But here’s the thing: ERPs are expensive. They’re complex. They take months, sometimes years, to implement, and they require constant maintenance. And let's not forget, they come with a significant degree of vendor lock-in, which means businesses can end up feeling trapped by the systems they adopt. This is where AI is starting to change the game.",
+      "key": "aix_enterprise_shift4",
+      "duration": 21.48
+    },
+    {
+      "speaker": "Host",
+      "text": "Instead of simply adding AI to existing ERP solutions, imagine a world where enterprise software is built with AI-first principles. This means rethinking the entire software architecture from scratch, with AI at the core rather than as an add-on. Klarna’s decision to replace Salesforce and Workday with AI isn't just about making existing processes smarter—it’s about fundamentally changing the way these systems are built and function.",
+      "key": "aix_enterprise_shift5",
+      "duration": 27.672
+    },
+    {
+      "speaker": "Host",
+      "text": "Traditional ERP systems are centered around structured data. Information like financial records, customer orders, and HR data are stored in neatly organized databases. But the business world is far more complex than that. Think about the unstructured data—emails, chat messages, recorded meetings—data that doesn't fit neatly into rows and columns. AI, particularly large language models or LLMs, can bridge the gap between structured and unstructured data, turning it all into actionable insights.",
+      "key": "aix_enterprise_shift6",
+      "duration": 30.984
+    },
+    {
+      "speaker": "Host",
+      "text": "In this new AI-first model, instead of relying on pre-built business logic and interfaces, companies could leverage AI agents to take care of critical tasks. These agents can do everything from extracting information and inputting it into databases, to analyzing complex data, presenting it in a user-friendly way, and even formulating strategies. Imagine a system where the AI takes on the heavy lifting, and human users only need to make the key decisions. It’s a massive shift.",
+      "key": "aix_enterprise_shift7",
+      "duration": 29.952
+    },
+    {
+      "speaker": "Host",
+      "text": "What’s exciting here is the concept of modularity. AI allows us to simplify what used to be the most complex parts of enterprise software. Instead of needing a massive, monolithic system full of tightly integrated business logic, you could have simple microservices—focused solely on managing data inputs and outputs. Imagine a finance module that simply records journal entries and makes sure debits and credits match. It doesn’t need a sophisticated user interface or advanced business rules—that’s what the AI agent handles.",
+      "key": "aix_enterprise_shift8",
+      "duration": 33.168
+    },
+    {
+      "speaker": "Host",
+      "text": "This approach not only makes systems simpler and cheaper, but it also removes vendor lock-in. Companies can mix and match modules, swap them in and out as needed, and use open-source components without being tied down. It makes enterprise software more dynamic, more flexible, and ultimately more accessible, even for smaller businesses.",
+      "key": "aix_enterprise_shift9",
+      "duration": 20.928
+    },
+    {
+      "speaker": "Host",
+      "text": "Now, of course, creating an effective AI-driven system requires expertise. Building AI agents that understand business nuances, that can interpret complex unstructured data, that can make the right decisions—it takes know-how and experience. This is where AI consultants and no-code AI platforms come in. These tools and experts can help companies transition smoothly into this new AI-centric world.",
+      "key": "aix_enterprise_shift10",
+      "duration": 24.984
+    },
+    {
+      "speaker": "Host",
+      "text": "So, what does this mean for the future of enterprise software? We’re moving towards a world where the systems that support businesses are no longer rigid, pre-built solutions, but rather flexible, adaptive frameworks shaped by AI. Instead of adapting our businesses to fit the software, the software will adapt to fit the unique needs of our businesses, thanks to AI. It’s an exciting future and one that I believe is worth exploring deeply.",
+      "key": "aix_enterprise_shift11",
+      "duration": 27.552
+    },
+    {
+      "speaker": "Host",
+      "text": "That’s all for today’s episode. I hope this has sparked some thoughts about where enterprise technology is heading and the role AI is likely to play. If you found this discussion interesting, don’t forget to subscribe and share 'life is artificial' with your friends or colleagues. And as always, feel free to reach out if there’s a topic you’d like me to cover in future episodes. Until next time, take care and keep imagining the possibilities of our AI-driven future.",
+      "key": "aix_enterprise_shift12",
+      "duration": 29.424
+    }
+  ]
+}
