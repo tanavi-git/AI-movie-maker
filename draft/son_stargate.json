@@ -1,0 +1,120 @@
+{
+  "title": "孫正義氏の400億ドルAI投資計画",
+  "description": "ソフトバンクの孫正義氏による大規模なAI投資計画について、高校生向けの分かりやすい解説",
+  "tts": "nijivoice",
+  "voices": [
+    "afd7df65-0fdc-4d31-ae8b-a29f0f5eed62",
+    "a7619e48-bf6a-4f9f-843f-40485651257f",
+    "bc06c63f-fef6-43b6-92f7-67f919bd5dae"
+  ],
+  "reference": "https://www.theinformation.com/articles/how-softbanks-son-made-it-back-to-the-white-house",
+  "charactors": ["春玲", "太郎", "中島先生"],
+  "speakers": ["Announcer", "Student", "Teacher"],
+  "script": [
+    {
+      "speaker": "Announcer",
+      "text": "米国で活躍するエンジニアが新しい技術やビジネスを分かりやすく解説する、中島聡のLife is beautiful。今日は、ソフトバンクグループによる400億ドル規模のAI投資計画についての解説です。",
+      "imagePrompt": "Modern tech business district with SoftBank logo prominently displayed on a skyscraper at sunset, futuristic AI visualization floating in the sky, clean corporate style"
+    },
+    {
+      "speaker": "Student",
+      "text": "先生、ニュースでソフトバンクの孫正義さんが、すごく大きなAI投資をすると言ってたみたいですけど、どういうことなんですか？",
+      "imagePrompt": "Digital news headlines floating in space showing SoftBank and AI investment numbers, abstract financial graphs and charts in blue and white"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "そうだね。これは実は、トランプ大統領が発表した五千億ドル（約75兆円）規模のStargateというAIデータセンタープロジェクトの一部なんだ。その中で孫正義さんは、約400億ドル（約6兆円）をデータセンターとオープンエーアイ（OpenAI）という会社に投資すると発表したんだよ。",
+      "imagePrompt": "Massive modern data center interior with endless rows of servers, blue LED lights, with holographic projections of AI networks, cinematic lighting"
+    },
+    {
+      "speaker": "Student",
+      "text": "75兆円のプロジェクトの中の6兆円！？すごい金額ですね。でも、なぜそんなに大きな投資が必要なんですか？",
+      "imagePrompt": "Abstract visualization of money flow, digital yen and dollar symbols flowing through technological circuits, scale showing 75 trillion vs 6 trillion"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "孫正義さんは、AIこそが未来を変える技術だと考えているんだ。特に、オープンエーアイ（OpenAI）のようなAI企業が新しい技術を開発するには、莫大な計算能力が必要なんだよ。そのために必要な設備への投資なんだ。",
+      "imagePrompt": "Futuristic AI brain made of light and energy, surrounded by computing power visualization, quantum computing concepts, deep blue and white color scheme"
+    },
+    {
+      "speaker": "Student",
+      "text": "でも、そんなにお金があるんですか？",
+      "imagePrompt": "Digital wallet or bank vault visualization with question marks, abstract financial symbols floating around, tech-style illustration"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "実は、そのほとんどは借金なんだ。ソフトバンクは今でも12兆円くらいの借金があるけど、さらに借金をして投資しようとしているんだよ。",
+      "imagePrompt": "Stack of digital coins and paper money balanced precariously, with growing debt numbers in holographic display, dramatic lighting"
+    },
+    {
+      "speaker": "Student",
+      "text": "えっ！？そんなに借金して大丈夫なんですか？",
+      "imagePrompt": "Balance scale with money on one side and risk symbols on other, surrounded by warning signs and question marks, tech-financial style"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "それが孫正義さんの特徴的なところなんだ。彼は「未来に賭ける」ことを恐れない経営者として有名なんだよ。過去にも大きな借金をして投資し、成功も失敗も経験してきた。",
+      "imagePrompt": "Visionary looking through futuristic telescope towards bright horizon, surrounded by both success and failure symbols, inspirational tech style"
+    },
+    {
+      "speaker": "Student",
+      "text": "具体的にどんな成功と失敗があったんですか？",
+      "imagePrompt": "Split screen showing contrasting paths: one side showing upward trending graphs and success symbols, other showing downward trends, tech business style"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "成功の例としては、Armという半導体設計の会社への投資があるよ。この会社の株式は去年の上場以来、価値が3倍になって、今では20兆円以上の価値がある。でも、WeWorkというオフィス共有会社への投資は大失敗して、何兆円も損してしまったんだ。",
+      "imagePrompt": "ARM chip schematics and rising stock charts on one side, empty modern office spaces with falling graphs on other side, corporate tech style"
+    },
+    {
+      "speaker": "Student",
+      "text": "すごいリスクを取る人なんですね。でも、なぜそこまでリスクを取るんでしょうか",
+      "imagePrompt": "High-wire walker balancing on digital beam between skyscrapers, representing risk-taking in tech business, dramatic perspective"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "孫正義さんは、ただお金を儲けることだけを考えているわけじゃないんだ。彼は「何百年先の未来を変えたい」という大きな夢を持っていて、その実現のためなら大きなリスクも取る。そして、その決断は時には直感的で、「準備、発射、狙い」という順番で物事を進めることもあるんだ。",
+      "imagePrompt": "Timeline visualization stretching hundreds of years into future, with technological milestones and innovations, inspiring sci-fi style"
+    },
+    {
+      "speaker": "Student",
+      "text": "普通は「準備、狙い、発射」じゃないですか？",
+      "imagePrompt": "Three-step rocket launch sequence diagram but in reverse order, innovative approach visualization, tech style illustration"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "その通り。でも孫正義さんは、チャンスだと思ったら、細かい計画を立てる前に行動を起こすんだ。そして、行動しながら問題を解決していく。これは危険な方法に見えるけど、技術の進歩が速い世界では、準備に時間をかけすぎると、チャンスを逃してしまうこともあるんだよ。",
+      "imagePrompt": "Fast-moving train leaving station while still under construction, symbolizing quick action and adaptation, dynamic tech style"
+    },
+    {
+      "speaker": "Student",
+      "text": "なるほど。でも今回の投資は成功すると思いますか？",
+      "imagePrompt": "Crystal ball showing multiple possible futures, AI and tech symbols swirling inside, mysterious tech atmosphere"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "正直、誰にも分からないね。実は発表直後に、中国のAI企業が「もっと安価にAIが作れる」と発表して、ソフトバンクの株価が10パーセントも下がったんだ。でも、孫正義さんは短期的な結果よりも、長期的なビジョンを重視している。彼にとって大切なのは、歴史に残る大きな変化を起こすことなんだよ。",
+      "imagePrompt": "Stock market volatility chart with AI symbols, but showing long-term upward trend beyond short-term dips, visionary tech style"
+    },
+    {
+      "speaker": "Student",
+      "text": "未来に賭ける勇気って、すごいことですね。",
+      "imagePrompt": "Bright lighthouse beam cutting through storm clouds, representing courage and vision in tech investment, inspiring atmosphere"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "そうだね。ただし、その裏には周到な準備もあるんだ。例えば、今回の投資も、Armという成功した投資があったからこそできること。リスクを取るということは、無謀に行動するということではないんだよ。",
+      "imagePrompt": "Chess board with strategic pieces arranged, surrounded by tech investment symbols and careful planning diagrams, professional style"
+    },
+    {
+      "speaker": "Student",
+      "text": "今日は経営者の考え方について、とてもよく分かりました。ありがとうございます",
+      "imagePrompt": "Connected web of business insights and leadership principles, forming a clear path forward, enlightening tech visualization"
+    },
+    {
+      "speaker": "Announcer",
+      "text": "ご視聴、ありがとうございました。次回の放送もお楽しみに。",
+      "imagePrompt": "Sunset over futuristic city skyline with 'To be continued' text floating in tech style, warm and promising atmosphere"
+    }
+  ]
+}

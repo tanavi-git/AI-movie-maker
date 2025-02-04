@@ -1,0 +1,97 @@
+{
+  "title": "The Great AI Chip Race: Understanding Tomorrow's Technology",
+  "description": "A friendly discussion between a curious student and an insightful teacher about the competition in the AI chip market, focusing on Nvidia, Broadcom, and Marvell.",
+  "tts": "openAI",
+  "voices": ["nova", "echo", "shimmer"],
+  "speakers": ["Announcer", "Student", "Teacher"],
+  "script": [
+    {
+      "speaker": "Announcer",
+      "text": "Welcome to another episode of Life is Beautiful by Satoshi Nakajima."
+    },
+    {
+      "speaker": "Announcer",
+      "text": "Today's discussion is based on the Bloomberg article titled 'Why Marvell Will Overtake Broadcom As Nvidia’s AI Challenger' The link to the article can be found in our show notes."
+    },
+    {
+      "speaker": "Student",
+      "text": "Teacher, I keep hearing about AI chips. What exactly are they, and why is everyone talking about them?"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "Think of AI chips like special brains for computers. Just like how we have different parts of our brain for different tasks, these chips help computers think and learn. Right now, there's a big race between companies making these chips!"
+    },
+    {
+      "speaker": "Student",
+      "text": "A race? What companies are involved?"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "The main players are Nvidia, Broadcom, and Marvell. Imagine them like three restaurants in a food court. Nvidia is like a popular restaurant that serves food everyone loves. Broadcom and Marvell are more like custom restaurants that make special dishes for specific customers."
+    },
+    {
+      "speaker": "Student",
+      "text": "Oh, I get it! But why would someone want custom chips instead of Nvidia's chips that everyone can use?"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "Great question! Let's use our restaurant example. While Nvidia's chips are like a delicious pizza that everyone enjoys, sometimes big companies like Google or Amazon want a very specific dish made just for them. That's where Broadcom and Marvell come in - they make special chips designed exactly for what these companies need."
+    },
+    {
+      "speaker": "Student",
+      "text": "Which company is doing better in this custom chip business?"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "Right now, Broadcom is like the most popular custom restaurant, serving about 70% of all custom orders. But Marvell is catching up fast! They're winning over big customers like Amazon, who used to eat at Broadcom's restaurant."
+    },
+    {
+      "speaker": "Student",
+      "text": "Why did Amazon switch from Broadcom to Marvell?"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "Well, it's like Broadcom suddenly raised their prices without warning, which made Amazon unhappy. Marvell, on the other hand, is known for being easier to work with and more flexible with their customers."
+    },
+    {
+      "speaker": "Student",
+      "text": "How much money can these companies make from these chips?"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "Broadcom's boss thinks their top three customers might spend between $60 billion to $90 billion every year in two years' time. That's like selling a million expensive cars! But Marvell's boss thinks the whole market will be smaller, around $43 billion by 2028."
+    },
+    {
+      "speaker": "Student",
+      "text": "Wow, that's a lot of money! Which company do experts think will do better in the future?"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "Many experts think Marvell might be the better bet. They're like a smaller restaurant that's growing really fast and getting more popular. While Broadcom is bigger, Marvell has more room to grow and might even take half of the market eventually."
+    },
+    {
+      "speaker": "Student",
+      "text": "Are there any problems these companies need to worry about?"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "Yes, there are a few. One big concern is that Broadcom works with a Chinese company called ByteDance, and there might be new rules that make it harder to sell technology to Chinese companies. Also, both companies sell other types of chips that aren't doing as well as their AI chips."
+    },
+    {
+      "speaker": "Student",
+      "text": "What about Nvidia? Are they worried about losing customers to Broadcom and Marvell?"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "Not really! Nvidia's chips are still very special because they can do many different things well. It's like they make a Swiss Army knife that everyone can use, while Broadcom and Marvell make specialized tools for specific jobs. There's room for both types in the market."
+    },
+    {
+      "speaker": "Student",
+      "text": "This is fascinating! It sounds like the future of AI chips will be really exciting to watch!"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "Exactly! And remember, just like how different restaurants can succeed by serving different types of food, these companies can all succeed by serving different needs in the AI chip market. The most important thing is that this competition helps make better technology for everyone!"
+    }
+  ]
+}

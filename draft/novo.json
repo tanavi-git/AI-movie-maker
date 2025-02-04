@@ -1,0 +1,104 @@
+{
+  "title": "ノボ・ノルディスクの画期的な新薬開発",
+  "description": "製薬会社ノボ・ノルディスクの新しい肥満治療薬の開発と、その市場への影響について、中学生向けの分かりやすい解説",
+  "tts": "nijivoice",
+  "voices": [
+    "afd7df65-0fdc-4d31-ae8b-a29f0f5eed62",
+    "a7619e48-bf6a-4f9f-843f-40485651257f",
+    "bc06c63f-fef6-43b6-92f7-67f919bd5dae"
+  ],
+  "charactors": ["春玲", "森野颯太", "ベン・カーター"],
+  "speakers": ["Announcer", "Student", "Teacher"],
+  "script": [
+    {
+      "speaker": "Announcer",
+      "text": "米国で活躍するエンジニアが新しい技術やビジネスを分かりやすく解説する、中島聡のLife is beautiful。今日は、世界的な製薬会社による画期的な新薬開発についての解説です。",
+      "imagePrompt": "modern pharmaceutical research laboratory with scientists working, clean white environment, advanced equipment"
+    },
+    {
+      "speaker": "Student",
+      "text": "先生、アメリカでは肥満の人がすごく多いって聞きました。本当ですか？",
+      "imagePrompt": "infographic showing obesity statistics in America, pie charts and graphs, professional medical illustration style"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "その通りだよ。アメリカでは、大人の4割以上が肥満なんだ。これは大きな問題になっていて、糖尿病や心臓病、がんなどの病気にもなりやすくなってしまうんだよ。",
+      "imagePrompt": "medical illustration showing connection between obesity and various health conditions, professional healthcare infographic style"
+    },
+    {
+      "speaker": "Student",
+      "text": "それは大変ですね。でも最近、ノボ・ノルディスクという会社の株価が上がったって聞きました。肥満に効く薬を作っているんですか？",
+      "imagePrompt": "stock market display showing rising graph, pharmaceutical company logo, clean business visualization"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "この会社は既に「オゼンピック」や「ウェゴビー」という肥満治療薬を作っているんだけど、今回はもっと効果の高い新薬を開発したんだ。実験では、体重の22パーセントも減らすことができたんだよ。",
+      "imagePrompt": "modern medical visualization of weight loss progress chart, before-after comparison, clean medical illustration style"
+    },
+    {
+      "speaker": "Student",
+      "text": "22パーセントも！？それはすごいですね。でも、なぜそんなに注目されているんですか？",
+      "imagePrompt": "newspaper headlines and digital news screens showing breakthrough medical development, professional news media style"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "実はね、この会社は最近ちょっと困ったことが続いていたんだ。他の新薬の実験であまりよくない結果が出たり、アメリカ政府が今ある薬の値段を下げるように言ってきたりしてね。",
+      "imagePrompt": "business challenge concept visualization, abstract representation of pharmaceutical pricing and research setbacks"
+    },
+    {
+      "speaker": "Student",
+      "text": "それで株価も下がっていたんですか？",
+      "imagePrompt": "stock market display showing previous decline then recent rise, financial data visualization"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "その通り。でも今回の新薬は、今までの薬と違って、二つの効果を一つの注射で実現できるんだ。それに、ライバル会社の薬より効果が高そうなんだよ。",
+      "imagePrompt": "scientific visualization of dual-action medication mechanism, molecular structure, professional medical illustration"
+    },
+    {
+      "speaker": "Student",
+      "text": "へぇ、どうやってそんなことができるんですか？",
+      "imagePrompt": "detailed molecular diagram showing combination of GLP-1 and amylin hormones, scientific visualization"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "この新薬は「アミクレチン」というんだけど、GLP-1というホルモンと、アミリンという別のホルモン、この二つの働きを一つの薬で実現したんだ。今までの薬は、二つの注射を打たないといけなかったんだよ。",
+      "imagePrompt": "comparison visualization of old vs new treatment methods, single vs double injection, medical illustration style"
+    },
+    {
+      "speaker": "Student",
+      "text": "一つの注射で済むなら、患者さんも使いやすそうですね。",
+      "imagePrompt": "modern medical delivery system visualization, simple and patient-friendly design, clean medical illustration"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "そうなんだ。それに、飲み薬のバージョンも研究しているんだよ。もし成功すれば、注射が苦手な人でも使えるようになるね。",
+      "imagePrompt": "pharmaceutical research laboratory focused on pill development, scientists working with tablet formulations"
+    },
+    {
+      "speaker": "Student",
+      "text": "でも、新薬って危なくないんですか？",
+      "imagePrompt": "medical safety testing visualization, laboratory quality control processes, professional scientific illustration"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "いい質問だね。今回の実験では、他の肥満治療薬と同じような副作用しか見られなかったって報告されているんだ。でも、まだ初期の実験段階だから、これからもっと詳しく調べていく必要があるんだよ。",
+      "imagePrompt": "clinical trial process visualization, phases of drug testing, professional medical research illustration"
+    },
+    {
+      "speaker": "Student",
+      "text": "なるほど。この薬で体重が減れば、他の病気も防げるようになるんですね。",
+      "imagePrompt": "health benefits visualization showing multiple positive outcomes from weight loss, medical infographic style"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "その通り。肥満を治療することで、糖尿病や心臓病のリスクも下がるんだ。だから、安全で効果的な薬を開発することは、多くの人の健康に役立つんだよ。ただし、新薬の開発には時間がかかるし、安全性も大切だから、慎重に進めていく必要があるんだ。これからの研究結果に期待しようね。",
+      "imagePrompt": "comprehensive healthcare visualization showing connection between obesity treatment and overall health improvement, professional medical illustration"
+    },
+    {
+      "speaker": "Announcer",
+      "text": "ご視聴、ありがとうございました。次回の放送もお楽しみに。",
+      "imagePrompt": "podcast outro screen with 'Life is beautiful' logo and 'Thank you for watching' message, professional broadcast style"
+    }
+  ]
+}

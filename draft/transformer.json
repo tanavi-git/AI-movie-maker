@@ -1,0 +1,117 @@
+{
+  "title": "AIの革命的技術、Transformerとは",
+  "description": "2017年に発表されたTransformer技術が現代のAIにもたらした革新について、高校生にもわかりやすく解説する対話形式の台本。",
+  "tts": "nijivoice",
+  "speed": 1.5,
+  "padding": 200,
+  "aspectRatio": "9:16",
+  "voices": [
+    "afd7df65-0fdc-4d31-ae8b-a29f0f5eed62",
+    "a7619e48-bf6a-4f9f-843f-40485651257f",
+    "bc06c63f-fef6-43b6-92f7-67f919bd5dae"
+  ],
+  "charactors": ["春玲", "森野颯太", "ベン・カーター"],
+  "speakers": ["Announcer", "Student", "Teacher"],
+  "script": [
+    {
+      "speaker": "Announcer",
+      "text": "今日は、現代のAI革命の源流となった、Transformer（トランスフォーマー）という技術についての解説です。",
+      "imagePrompt": "Abstract digital network with glowing nodes transforming and evolving, blue and white color scheme, representing AI revolution, minimalist tech aesthetic"
+    },
+    {
+      "speaker": "Student",
+      "text": "先生、最近よく聞くGPTって、何の略なんですか？",
+      "imagePrompt": "Elegant typography showing 'GPT' with each letter transforming into 'Generative Pre-trained Transformer', surrounded by subtle digital particles"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "いい質問だね。GPTは「Generative Pre-trained Transformer」の略なんだ。この中の「Transformer」という言葉が、実は現代のAI革命の源になっているんだよ。",
+      "imagePrompt": "3D geometric tree structure with 'Transformer' as the root, branching out into modern AI applications, tech-inspired design"
+    },
+    {
+      "speaker": "Student",
+      "text": "Transformerって、どういう技術なんですか？",
+      "imagePrompt": "Abstract visualization of neural network architecture, with highlighted attention mechanisms, clean minimalist style"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "2017年にGoogleの研究者たちが「Attention Is All You Need（注目することがすべて）」という論文で発表した画期的な技術なんだ。",
+      "imagePrompt": "Research paper floating in digital space with 'Attention Is All You Need' title glowing, surrounded by mathematical formulas and neural network diagrams"
+    },
+    {
+      "speaker": "Student",
+      "text": "「Attention Is All You Need」ってカッコ良いタイトルですね。",
+      "imagePrompt": "Artistic typography of 'Attention Is All You Need' with dynamic light beams connecting letters, tech-inspired design"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "ビートルズの有名な曲、「All You Need Is Love」から来ているらしいよ。人間の「注目する能力」をコンピュータで再現した仕組みなんだよ。",
+      "imagePrompt": "Split image: musical notes morphing into binary code, representing the transition from Beatles' music to computer science"
+    },
+    {
+      "speaker": "Student",
+      "text": "注目する能力？それってどういうことですか？",
+      "imagePrompt": "Abstract visualization of attention mechanism, showing multiple focal points connected by glowing lines in a neural network"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "例えば、「私は公園でリンゴを食べた。それはとても甘かった」という文章があったとき、「それ」が何を指しているか分かるかな？",
+      "imagePrompt": "Floating text bubbles showing the sentence in Japanese, with glowing connection between 'リンゴ' and 'それ', minimal design"
+    },
+    {
+      "speaker": "Student",
+      "text": "もちろんです！「それ」は「リンゴ」のことですよね。",
+      "imagePrompt": "Red apple with subtle digital overlay, connected to the word 'それ' by glowing lines, demonstrating AI language understanding"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "その通り。人間はこれを自然にできるけど、それまでのAIにはとても難しかったんだ。Transformerは文章の中の言葉と言葉の関係を、まるで人間のように理解できる仕組みを作り出したんだよ。",
+      "imagePrompt": "Complex web of interconnected words in Japanese floating in 3D space, with some connections highlighted in bright colors, representing AI language understanding"
+    },
+    {
+      "speaker": "Student",
+      "text": "へぇ、すごいですね。でも、それがどうしてそんなに革命的なんですか？",
+      "imagePrompt": "Timeline visualization showing evolution of AI language models, with Transformer architecture as a bright turning point"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "それまでのAIは、文章を前から順番に読んでいく必要があって、とても時間がかかっていたんだ。でもTransformerは、文章全体を一度に見て、関係のある部分同士を結びつけることができる。",
+      "imagePrompt": "Split screen: linear sequential text processing vs parallel Transformer processing, shown through abstract data visualization"
+    },
+    {
+      "speaker": "Student",
+      "text": "なるほど！だから最近のAIは人間みたいに会話ができるようになったんですね。",
+      "imagePrompt": "Flowing conversation bubbles with binary code and neural patterns inside, representing AI-human communication"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "その通り。このTransformerという技術があったからこそ、ChatGPTのような高性能なAIが生まれたんだ。最近のAIの進歩は、ほとんど全てこの技術から始まっているんだよ。",
+      "imagePrompt": "Futuristic tech tree with Transformer at its root, branching into various AI applications and capabilities, glowing connections"
+    },
+    {
+      "speaker": "Student",
+      "text": "でも、そんなにすごい技術なら、もっと前からあったんじゃないですか？",
+      "imagePrompt": "Digital timeline from 2017 to present, showing exponential growth of AI capabilities through abstract visualization"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "実はね、2017 年まではこの技術は存在しなかったんだ。Googleの研究者たちが画期的な論文を発表して、それからわずか7年でAIの世界は大きく変わった。技術の進歩って、時にはこんなにも急激に起こることがあるんだよ。",
+      "imagePrompt": "Dynamic visualization of exponential technological growth, with 2017 marked as a bright inflection point, surrounded by accelerating progress indicators"
+    },
+    {
+      "speaker": "Student",
+      "text": "へぇ、たった7年でそんなに変わったんですね。これからはもっとすごいAIが出てくるんでしょうか？",
+      "imagePrompt": "Futuristic horizon with emerging AI technologies represented as rising geometric shapes, bright and optimistic color scheme"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "間違いないね。「Attention Is All You Need」という論文から始まったAI革命は、まだまだ続いているんだ。でも大切なのは、この技術を理解して、うまく活用していくこと。AIはあくまでも道具で、使う私たち人間の理解と判断が重要なんだよ。",
+      "imagePrompt": "Harmonious blend of human elements (represented by organic shapes) and AI technology (geometric patterns), showing collaborative future"
+    },
+    {
+      "speaker": "Student",
+      "text": "なるほど。Transformerのことが分かって、最近のAIブームの理由も少し理解できた気がします。ありがとうございました！",
+      "imagePrompt": "Enlightening burst of understanding visualized through converging light rays and neural network patterns, warm and concluding atmosphere"
+    }
+  ]
+}

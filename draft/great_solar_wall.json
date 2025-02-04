@@ -1,0 +1,124 @@
+{
+  "title": "中国の巨大ソーラーウォールプロジェクト",
+  "description": "中国のクブチ砂漠で進行中の巨大太陽光発電プロジェクトについて、環境への影響や経済効果を含めた包括的な解説",
+  "tts": "nijivoice",
+  "voices": [
+    "afd7df65-0fdc-4d31-ae8b-a29f0f5eed62",
+    "a7619e48-bf6a-4f9f-843f-40485651257f",
+    "bc06c63f-fef6-43b6-92f7-67f919bd5dae"
+  ],
+  "charactors": ["春玲", "太郎", "山田先生"],
+  "speakers": ["Announcer", "Student", "Teacher"],
+  "script": [
+    {
+      "speaker": "Announcer",
+      "text": "米国で活躍するエンジニアが新しい技術やビジネスを分かりやすく解説する、中島聡のLife is beautiful。今日は、中国で建設中の世界最大級の太陽光発電施設、グレート・ソーラーウォールについての解説です。",
+      "imagePrompt": "Aerial view of massive solar panel array in Kubuqi Desert, China, stretching to horizon, photorealistic, golden sunset"
+    },
+    {
+      "speaker": "Student",
+      "text": "先生、ニュースで中国が「グレート・ソーラーウォール」っていう巨大な発電所を作ってるって聞いたんですけど、これって何ですか？",
+      "imagePrompt": "Solar panels in desert landscape, golden hour lighting, environmental technology focus"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "うん、これはすごく面白いプロジェクトなんだ。中国の内モンゴル自治区にあるクブチ砂漠で建設している、世界最大級の太陽光発電所なんだよ。",
+      "imagePrompt": "Vast desert landscape with gleaming solar panels, dramatic aerial view, Kubuqi Desert, photorealistic"
+    },
+    {
+      "speaker": "Student",
+      "text": "え！砂漠に発電所ですか？どれくらい大きいんですか？",
+      "imagePrompt": "Solar panels in desert landscape, golden hour lighting, environmental technology focus"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "長さが約400キロメートルもあるんだよ。東京から名古屋くらいまでの距離だね。幅も5キロメートルあって、とても広大な施設なんだ。",
+      "imagePrompt": "Satellite view of solar wall installation in desert, showing massive scale, technical diagram overlay"
+    },
+    {
+      "speaker": "Student",
+      "text": "すごい大きさですね！でも、なんで砂漠に作るんですか？",
+      "imagePrompt": "Solar panels in desert landscape, golden hour lighting, environmental technology focus"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "いい質問だね。砂漠には3つの大きな利点があるんだ。まず、日差しが強くて雲が少ないから、太陽光発電に最適なんだ。次に、広大な未使用地があるから大規模な施設が建設できる。そして、砂漠化を防ぐ効果もあるんだよ。",
+      "imagePrompt": "Split view: intense desert sunlight, vast empty desert land, and green vegetation near solar panels, infographic style"
+    },
+    {
+      "speaker": "Student",
+      "text": "砂漠化を防げるんですか？どうやって？",
+      "imagePrompt": "Solar panels in desert landscape, golden hour lighting, environmental technology focus"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "ソーラーパネルが砂を覆うことで、風による砂の移動を防ぐんだ。さらに、パネルの下で農業もできるように設計されているんだよ。",
+      "imagePrompt": "Close-up of solar panels protecting desert soil, with visible anti-desertification effect, technical illustration"
+    },
+    {
+      "speaker": "Student",
+      "text": "へぇ！パネルの下で作物が育つんですか？",
+      "imagePrompt": "Solar panels in desert landscape, golden hour lighting, environmental technology focus"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "そうなんだ。これを「営農型太陽光発電」って言うんだよ。パネルが強い日差しを遮ってくれるから、むしろ作物を育てやすい環境になるんだ。",
+      "imagePrompt": "Crops growing under elevated solar panels in desert, agrivoltaic system, cross-section diagram"
+    },
+    {
+      "speaker": "Student",
+      "text": "すごいですね。でも、こんな大きな施設を作るのにお金がかかりそうです...",
+      "imagePrompt": "Solar panels in desert landscape, golden hour lighting, environmental technology focus"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "その通り。約48億ドル、日本円で約7兆円もかかる大規模プロジェクトなんだ。でも、完成すると年間480億キロワット時という膨大な電力を作り出せるんだよ。",
+      "imagePrompt": "Digital visualization of massive solar farm construction, with economic data overlay, infographic style"
+    },
+    {
+      "speaker": "Student",
+      "text": "480億キロワット時？どれくらいの電気なんですか？",
+      "imagePrompt": "Solar panels in desert landscape, golden hour lighting, environmental technology focus"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "北京や天津といった大都市圏の電力需要を賄えるくらいの量なんだ。さらに、このプロジェクトで約5万人の雇用が生まれる予定で、地域の発展にも貢献するんだよ。",
+      "imagePrompt": "Night view of illuminated Beijing skyline powered by solar energy, with power grid visualization"
+    },
+    {
+      "speaker": "Student",
+      "text": "環境にもいいし、電気も作れて、仕事も増えるなんて、すごいプロジェクトですね！",
+      "imagePrompt": "Solar panels in desert landscape, golden hour lighting, environmental technology focus"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "そうだね。二千三十年までには、このプロジェクトで年間約3,150万トンのCO2削減も期待できるんだ。これは、地球温暖化対策としても大きな貢献になるよ。",
+      "imagePrompt": "Environmental impact diagram showing CO2 reduction from solar wall, with visual metrics, clean design"
+    },
+    {
+      "speaker": "Student",
+      "text": "日本でもこういうプロジェクトはできないんですか？",
+      "imagePrompt": "Japanese countryside with small-scale solar installation integrated with rice fields, aerial view"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "日本は国土が狭いから、同じ規模は難しいけど、似たような取り組みは始まっているよ。例えば、使われていない農地を活用した太陽光発電など、場所や規模に合わせた工夫をしているんだ。",
+      "imagePrompt": "Solar panels in desert landscape, golden hour lighting, environmental technology focus"
+    },
+    {
+      "speaker": "Student",
+      "text": "なるほど！環境にやさしい発電って、本当に大切なんですね。",
+      "imagePrompt": "Solar panels in desert landscape, golden hour lighting, environmental technology focus"
+    },
+    {
+      "speaker": "Teacher",
+      "text": "その通り。これからの時代は、こういった再生可能エネルギーがますます重要になってくるんだよ。",
+      "imagePrompt": "Future energy landscape showing various renewable sources: solar, wind, and hydro, optimistic visualization"
+    },
+    {
+      "speaker": "Announcer",
+      "text": "ご視聴、ありがとうございました。次回の放送もお楽しみに。",
+      "imagePrompt": "Renewable energy infographic showing solar panels and wind turbines against blue sky, minimalist design"
+    }
+  ]
+}
