@@ -1,0 +1,51 @@
+{
+  "title": "Tiny Brains, Big Flights: How Neuromorphic Tech Powers Mini Drones",
+  "description": "Explore how cutting-edge neuromorphic technology enables insect-sized intelligent flying robots and revolutionizes the world of robotics.",
+  "reference": "https://interestingengineering.com/innovation/neuromorphic-technology-drone-flight",
+  "script": [
+    {
+      "speaker": "Host",
+      "text": "Hello and welcome to another episode of 'life is artificial', where we explore the cutting edge of technology, innovation, and what the future could look like."
+    },
+    {
+      "speaker": "Host",
+      "text": "Today, we're diving into something truly fascinating: the world of tiny flying robots, specifically, how new neural tech could power insect-sized intelligent drones. Imagine a robot as small as a bug, capable of flying around autonomously, navigating its environment with surprising accuracy. We're talking about real-life, fully functional mini-drones that use an innovative form of artificial intelligence. And, of course, this episode is inspired by an article from Interesting Engineering titled 'New neural tech could power insect-sized intelligent flying robots'. You can find the article at the link in the description."
+    },
+    {
+      "speaker": "Host",
+      "text": "Let's break this down. Researchers from Delft University of Technology in the Netherlands have developed a neuromorphic vision-to-control mechanism that allows drones to navigate autonomously. But what is neuromorphic technology? In simple terms, it's a way of mimicking the brain's processing. These tiny flying robots use something called a spiking neural network to make decisions, much like our brains do. This means they can process visual information more efficiently and use far less power than traditional systems. It's an approach that takes inspiration from the way biological brains function, aiming for low-latency and energy-efficient operation."
+    },
+    {
+      "speaker": "Host",
+      "text": "Now, what's really amazing here is how this is done. The team at Delft created a five-layer spiking neural network with about 28,800 neurons. This network processes raw data from an event-based camera—kind of like a simplified version of how our own eyes work. The camera captures changes in the environment, and the neural network then estimates the 3D motion of the drone, allowing it to hover, land, and even move sideways. It’s incredibly compact and energy-efficient compared to conventional vision-based systems for drone flight."
+    },
+    {
+      "speaker": "Host",
+      "text": "The processor that makes all this magic happen is called Loihi, a neuromorphic chip developed by Intel. Unlike traditional processors, Loihi is designed to handle the kind of asynchronous, sparse processing that spiking neural networks need. It consumes just under one watt of idle power and only 7 to 12 milliwatts when running the network. That kind of efficiency is pretty revolutionary, especially when you consider the potential applications of these drones in various fields—agriculture, surveillance, search and rescue, and even exploration in dangerous environments."
+    },
+    {
+      "speaker": "Host",
+      "text": "One of the big challenges in robotics is how to get these machines to adapt to real-world conditions without requiring massive amounts of computational power. This neuromorphic approach solves some of those problems by allowing the drone to learn in a self-supervised manner, meaning it doesn't need extensive training data to figure out how to navigate. This is partly thanks to the way the vision and control are separated—vision focuses on understanding what's happening in the environment, while control decides how to respond. This makes training much faster and avoids the complexity of generating highly realistic simulations for training purposes."
+    },
+    {
+      "speaker": "Host",
+      "text": "The researchers tested their system using a small flying robot, weighing under a kilogram, equipped with a specialized event camera and the Loihi processor. It was able to autonomously adjust its position in response to set commands—something that we previously only saw in much larger, more energy-intensive drones. The experiments showed not only that the drone could land smoothly, hover, and move sideways, but also that it could operate in different lighting conditions—an important factor for real-world applications."
+    },
+    {
+      "speaker": "Host",
+      "text": "The implications of this technology are huge. By significantly reducing the power requirements for visual processing and control, it’s now possible to envision insect-sized robots that could be used for everything from monitoring environmental conditions to pollination or even assisting in disaster scenarios where human intervention is difficult or dangerous. Imagine a swarm of tiny, autonomous drones that could quickly assess damage in a collapsed building or help locate survivors—these are no longer just science fiction concepts."
+    },
+    {
+      "speaker": "Host",
+      "text": "Of course, this is just the beginning. The technology still has a long way to go before we see it in widespread use, but the fact that we are already seeing real-world demonstrations is a significant milestone. This research also points towards future possibilities of creating highly intelligent, insect-sized robots that could fundamentally change how we approach problems like urban planning, wildlife monitoring, or even medical applications."
+    },
+    {
+      "speaker": "Host",
+      "text": "And that’s it for today’s episode. If you're as fascinated by these flying mini robots as I am, be sure to check out the full article on Interesting Engineering. The link is in the description. Neuromorphic tech could very well be the key to unlocking a future where robots, no matter how tiny, can operate intelligently in complex environments—just like insects, but maybe even smarter."
+    },
+    {
+      "speaker": "Host",
+      "text": "Thanks for tuning in to 'life is artificial'. Don’t forget to subscribe for more episodes as we continue to explore how technology is reshaping the world around us, one byte at a time. Until next time, stay curious and keep imagining the possibilities."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "title": "Cerebras vs GPUs: A Giant Leap in AI Inference Performance",
+  "description": "In this episode, we dive into how Cerebras Systems is shaking up the AI industry with their latest advances in AI inference performance, outpacing Nvidia's powerful GPUs. Learn about the groundbreaking technology and the future of AI hardware.",
+  "reference": "https://www.nextplatform.com/2024/10/25/cerebras-trains-llama-models-to-leap-over-gpus/",
+  "script": [
+    {
+      "speaker": "Host",
+      "text": "Hello and welcome to another episode of 'life is artificial', where we explore the cutting edge of technology, innovation, and what the future could look like."
+    },
+    {
+      "speaker": "Host",
+      "text": "Today, we have a fascinating story for you about Cerebras Systems, a company that has been quietly working on something extraordinary: their waferscale compute engines, and how these have recently made significant advancements that could reshape AI as we know it. We're going to talk about Cerebras' showdown with the AI giant Nvidia and how their technology might just leap ahead in the inference performance race."
+    },
+    {
+      "speaker": "Host",
+      "text": "If you haven't heard of Cerebras before, let me give you a bit of context. They're a company specializing in waferscale computing – and yes, that literally means using an entire wafer as a computing unit. Their CS-3 nodes and WSE-3 engines have been engineered to handle massive amounts of data and computations, which makes them ideal for AI workloads. The news we're diving into today comes from The Next Platform, in an article titled 'Cerebras Trains Llama Models To Leap Over GPUs.' If you're interested in the full breakdown, you can check out the article in the show notes."
+    },
+    {
+      "speaker": "Host",
+      "text": "So what's the big deal here? Well, Cerebras has managed to achieve some pretty incredible performance benchmarks for AI inference, particularly with the Llama 3.2 models, which are the latest open-source foundation models developed by Meta. These models are massive – we're talking 70 billion parameters in Llama 3.2. And for a comparison, just to load this model alone you need at least 140 gigabytes of memory."
+    },
+    {
+      "speaker": "Host",
+      "text": "What Cerebras has done is remarkable. With just four of their CS-3 nodes, they're able to handle the Llama 3.2 models with performance rates far ahead of what Nvidia's high-end GPUs can do, even those utilizing Nvidia’s latest Hopper H100 GPUs. According to Cerebras, they’re now pushing 2,100 tokens per second with their hardware, which is a 4.7 times improvement compared to just a few months ago. That's the kind of improvement that usually takes a year or two of optimizations, and they've done it in just a few months."
+    },
+    {
+      "speaker": "Host",
+      "text": "And here's why this matters: AI inference is the process of using an AI model to make predictions or decisions. It’s a crucial step for any AI application, from your voice assistant to advanced robotics. Cerebras' technology is showing that they can do this faster and more cost-effectively than even Nvidia’s powerful GPUs. Their WSE-3 wafer has a staggering 900,000 tensor cores, and it's built with the aim of optimizing AI inference like never before. The CS-3 nodes, which have 44 gigabytes of on-chip SRAM each, are interconnected by an architecture they call SwarmX. It’s not just about raw power – it’s about how smartly they can use that power."
+    },
+    {
+      "speaker": "Host",
+      "text": "Let’s talk numbers, because the comparison is really interesting. According to Artificial Analysis, Cerebras' Llama 3.2 70B performance is anywhere from 8 to 22 times higher than Nvidia’s eight-way GPU nodes, depending on the parameter sizes. To put it simply: for the same workload, Cerebras is delivering a lot more bang for your buck."
+    },
+    {
+      "speaker": "Host",
+      "text": "Cerebras is betting big on AI inference becoming the primary driver of AI in the future. While Nvidia has largely dominated the AI training market, the inference side is growing and presents a different set of challenges and opportunities. Training a model is intensive, but once it’s trained, you want to deploy it as efficiently as possible, and that’s where Cerebras aims to be the leader."
+    },
+    {
+      "speaker": "Host",
+      "text": "So why has Cerebras taken its time to enter the inference market? It's all about timing. They wanted a big story to tell as they prepare for an initial public offering, and the performance gains they've shown certainly make a compelling case for investors. It's a bold move, taking on Nvidia in the inference space, but the numbers show they’re making real progress."
+    },
+    {
+      "speaker": "Host",
+      "text": "The question now is: how far can Cerebras push this? They're already working on a much larger model – the Llama 3.2 405B model, which, as the name suggests, comes with a whopping 405 billion parameters. To run that model, Cerebras will need even more CS-3 nodes, and it will be fascinating to see if they can maintain their performance advantage as models get larger and more complex."
+    },
+    {
+      "speaker": "Host",
+      "text": "It’s also worth noting that Cerebras' approach, with a focus on larger SRAM capacity and advanced inter-node connectivity, is changing how we think about scaling AI models. While Nvidia focuses on multi-GPU setups using technologies like NVLink and NVSwitch, Cerebras has taken a different path with its on-wafer architecture, and it seems to be paying off. They’ve made it clear that they’re not afraid of tackling larger models, and they have some ambitious plans for the future."
+    },
+    {
+      "speaker": "Host",
+      "text": "And there’s another interesting angle here: the cost of renting vs. buying these systems. Cerebras is taking a loss in the short term by renting out capacity at a lower rate to get people interested. That kind of loss leader strategy is common for startups trying to break into an entrenched market, and it’s clear they’re making a big play for datacenter inference dominance."
+    },
+    {
+      "speaker": "Host",
+      "text": "If you’re as excited about the future of AI as we are, this story is definitely one to keep an eye on. Cerebras’ waferscale computing might just be what’s needed to push AI performance to new heights and bring more powerful inference capabilities to businesses around the world. It’s about more than just raw power – it’s about rethinking the entire architecture of AI computing."
+    },
+    {
+      "speaker": "Host",
+      "text": "Thanks for tuning in to this episode of 'life is artificial'. If you found today's topic intriguing, don’t forget to check out the full article by The Next Platform – the link is in the show notes. We’ll be back soon with more stories on how technology is reshaping our lives. Until then, stay curious!"
+    }
+  ]
+}

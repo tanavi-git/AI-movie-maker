@@ -1,0 +1,80 @@
+{
+  "title": "OpenAIとMicrosoftの独占契約って何？",
+  "description": "AIとクラウドに関するMicrosoftとOpenAIの関係について、誰でも分かるように解説。",
+  "tts": "nijivoice",
+  "reference": "https://www.theinformation.com/articles/google-asks-ftc-to-kill-microsofts-exclusive-cloud-deal-with-openai?rc=rvvbkr",
+  "script": [
+    {
+      "speaker": "Host",
+      "text": "先生、AIとクラウドに関するMicrosoftとOpen-エーアイの関係について教えてください！"
+    },
+    {
+      "speaker": "Guest",
+      "text": "もちろんだよ、太郎くん。最近、Open-エーアイっていうAIを作る会社とMicrosoftっていう会社の間で、独占的な契約が話題になっているんだ。"
+    },
+    {
+      "speaker": "Host",
+      "text": "独占的な契約ってどういうことですか？"
+    },
+    {
+      "speaker": "Guest",
+      "text": "簡単に言うと、Open-エーアイが作ったAIを使いたい会社は、Microsoftのクラウドサービスを使わないといけないって決まりなんだよ。"
+    },
+    {
+      "speaker": "Host",
+      "text": "へえ、でもそれって何か問題があるんですか？"
+    },
+    {
+      "speaker": "Guest",
+      "text": "実はね、他のクラウドサービスを提供しているGoogleやAmazonが、それだと競争が不公平になるって言っているんだ。"
+    },
+    {
+      "speaker": "Host",
+      "text": "どうして不公平なんですか？"
+    },
+    {
+      "speaker": "Guest",
+      "text": "たとえば、Open-エーアイのAIを使いたい会社がMicrosoftのクラウドを使わなきゃいけないと、GoogleやAmazonのクラウドを使っている会社は、わざわざMicrosoftにデータを移さないといけない。それには時間もお金もかかるんだよ。"
+    },
+    {
+      "speaker": "Host",
+      "text": "なるほど、それで困る人が出てくるんですね。"
+    },
+    {
+      "speaker": "Guest",
+      "text": "その通り！しかも、MicrosoftはOpen-エーアイの売り上げの一部をもらっているから、競争がますます難しくなっているって言われているんだ。"
+    },
+    {
+      "speaker": "Host",
+      "text": "他の会社もAIを作ってるんですか？"
+    },
+    {
+      "speaker": "Guest",
+      "text": "うん、Googleも自分たちのAIを作っているし、Amazonも別の会社のAIを売っているんだ。でも、Open-エーアイのAIは使いやすいから、多くの会社がそれを使いたいと思っているんだよ。"
+    },
+    {
+      "speaker": "Host",
+      "text": "それで、政府が何かするのかな？"
+    },
+    {
+      "speaker": "Guest",
+      "text": "そうだね。アメリカの政府のFTCっていう機関が、この契約が競争を妨げていないか調べているんだよ。でも、まだどうなるかは分からないね。"
+    },
+    {
+      "speaker": "Host",
+      "text": "なるほど。じゃあ、Open-エーアイは他のクラウドでも使えるようになるかもしれないんですか？"
+    },
+    {
+      "speaker": "Guest",
+      "text": "その可能性はあるよ。実はOpen-エーアイも、もっとたくさんのクラウドを使えるようにしたいって考えているみたいだからね。"
+    },
+    {
+      "speaker": "Host",
+      "text": "AIってすごいけど、競争のルールも大事なんですね！"
+    },
+    {
+      "speaker": "Guest",
+      "text": "その通りだよ、太郎くん！競争があると、もっといいサービスが出てくるし、みんなにとってもいいことなんだよ。"
+    }
+  ]
+}
